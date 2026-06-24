@@ -6,19 +6,17 @@ conn = sqlite3.connect("data/nifty100.db")
 query = """
 SELECT *
 FROM financial_ratios
-WHERE
-    return_on_equity_pct > 15
-    AND debt_to_equity < 1
-    AND net_profit_margin_pct > 10
 """
 
 df = pd.read_sql(query, conn)
 
+print(df.head())
+
 df.to_csv(
-    "output/stock_screener.csv",
+    "output/financial_ratios_report.csv",
     index=False
 )
 
-print(df.head())
+print("Financial Ratio Report Generated")
 
 conn.close()
