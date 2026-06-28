@@ -3,7 +3,7 @@ import streamlit as st
 import sqlite3
 import pandas as pd
 import plotly.express as px
-import os
+from pathlib import Path
 
 # -----------------------------------------
 # PAGE CONFIG
@@ -16,8 +16,15 @@ st.set_page_config(
 # -----------------------------------------
 # DATABASE CONNECTION
 # -----------------------------------------
-conn = sqlite3.connect("data/nifty100.db")
 
+BASE_DIR = Path(__file__).resolve().parents[2]
+DB_PATH = BASE_DIR / "data" / "nifty100.db"
+
+if not DB_PATH.exists():
+    st.error(f"Database not found: {DB_PATH}")
+    st.stop()
+
+conn = sqlite3.connect(DB_PATH)
 # -----------------------------------------
 # HEADER
 # -----------------------------------------
