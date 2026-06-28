@@ -10,7 +10,7 @@ df = pd.read_csv(
 
 st.dataframe(
     df.head(20),
-    width="stretch"
+    use_container_width=True
 )
 
 fig = px.bar(
@@ -22,5 +22,5 @@ fig = px.bar(
 
 st.plotly_chart(
     fig,
-    width="stretch"
+    use_container_width=True
 )

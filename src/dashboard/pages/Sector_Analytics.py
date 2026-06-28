@@ -23,7 +23,7 @@ try:
 
     st.dataframe(
         sectors_df,
-        width="stretch"
+        use_container_width=True
     )
 
     # Broad Sector Analysis
@@ -44,7 +44,7 @@ try:
 
     st.plotly_chart(
         fig1,
-        width="stretch"
+        use_container_width=True
     )
 
     st.subheader("Sector Share")
@@ -57,7 +57,7 @@ try:
 
     st.plotly_chart(
         fig2,
-        width="stretch"
+        use_container_width=True
     )
 
     st.subheader("Sector Ranking")
@@ -67,7 +67,7 @@ try:
             "Companies",
             ascending=False
         ),
-        width="stretch"
+        use_container_width=True
     )
 
     # Market Cap Distribution
@@ -88,7 +88,7 @@ try:
 
     st.plotly_chart(
         fig3,
-        width="stretch"
+        use_container_width=True
     )
 
 except Exception as e:

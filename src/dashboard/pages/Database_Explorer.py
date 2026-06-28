@@ -29,7 +29,7 @@ try:
 
     st.dataframe(
         tables,
-        width="stretch"
+      use_container_width=True
     )
 
     table_name = st.selectbox(
@@ -56,7 +56,7 @@ try:
 
     st.dataframe(
         preview_df,
-        width="stretch"
+        use_container_width=True
     )
 
     # Column Information
@@ -69,7 +69,7 @@ try:
 
     st.dataframe(
         columns_df,
-        width="stretch"
+        use_container_width=True
     )
 
 except Exception as e:

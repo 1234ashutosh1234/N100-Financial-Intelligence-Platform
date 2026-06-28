@@ -45,7 +45,7 @@ try:
 
     st.dataframe(
         company_df,
-        width="stretch"
+       use_container_width=True
     )
 
     # Latest Metrics
@@ -94,7 +94,7 @@ try:
 
         st.plotly_chart(
             fig1,
-            width="stretch"
+            use_container_width=True
         )
 
     # Net Profit Margin Trend
@@ -112,7 +112,7 @@ try:
 
         st.plotly_chart(
             fig2,
-            width="stretch"
+            use_container_width=True
         )
 
     # Debt to Equity
@@ -129,7 +129,7 @@ try:
 
         st.plotly_chart(
             fig3,
-            width="stretch"
+            use_container_width=True
         )
 
     # Operating Margin
@@ -147,7 +147,7 @@ try:
 
         st.plotly_chart(
             fig4,
-            width="stretch"
+            use_container_width=True
         )
 
 except Exception as e:

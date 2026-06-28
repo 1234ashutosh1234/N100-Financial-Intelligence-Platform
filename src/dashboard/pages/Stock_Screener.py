@@ -20,5 +20,5 @@ filtered = df[
 
 st.dataframe(
     filtered,
-    width="stretch"
+    use_container_width=True
 )
