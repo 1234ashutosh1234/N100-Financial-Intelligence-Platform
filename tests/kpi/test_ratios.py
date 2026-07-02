@@ -30,3 +30,25 @@ def run_tests():
 
 if __name__ == "__main__":
     run_tests()
+
+        # -----------------------------
+    # Day 9 Tests
+    # -----------------------------
+
+    assert debt_to_equity(100, 50) == 2.0
+    assert debt_to_equity(100, 0) is None
+
+    assert interest_coverage(100, 20) == 5.0
+    assert interest_coverage(100, 0) is None
+
+    assert net_debt(500, 100) == 400
+    assert net_debt(500, None) == 500
+
+    assert asset_turnover(1000, 200) == 5.0
+    assert asset_turnover(1000, 0) is None
+
+    assert high_leverage_flag(6) is True
+    assert high_leverage_flag(3) is False
+
+    assert icr_warning(1.2) is True
+    assert icr_warning(2.5) is False
