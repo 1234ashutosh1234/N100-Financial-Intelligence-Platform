@@ -1,107 +1,171 @@
+"""
+Cash Flow KPI Library
+Sprint 2 - Financial Ratio Engine
+"""
+
 import pandas as pd
 
 
-# ---------------------------------
-# Free Cash Flow
-# ---------------------------------
-def free_cash_flow(cfo, investing_activity):
+def safe_divide(a, b):
+    if pd.isna(a) or pd.isna(b):
+        return None
+    if b == 0:
+        return None
+    return round(a / b, 2)
+
+
+# ----------------------------------------------------
+# FREE CASH FLOW
+# ----------------------------------------------------
+
+def free_cash_flow(operating_activity, investing_activity):
     """
-    FCF = CFO + Investing Activity
-    (Investing Activity is normally negative)
+    FCF = CFO + CFI
+    (Investing Activity is usually negative)
     """
-    if pd.isna(cfo) or pd.isna(investing_activity):
+    if pd.isna(operating_activity):
         return None
 
-    return round(cfo + investing_activity, 2)
+    if pd.isna(investing_activity):
+        investing_activity = 0
+
+    return round(
+        operating_activity + investing_activity,
+        2
+    )
 
 
-# ---------------------------------
-# CFO Quality Score
-# ---------------------------------
-def cfo_quality(cfo, pat):
-    """
-    CFO/PAT Ratio
+# ----------------------------------------------------
+# CFO QUALITY
+# ----------------------------------------------------
 
-    >1.0 = High Quality
-    0.5-1.0 = Moderate
-    <0.5 = Accrual Risk
-    """
+def cfo_quality(operating_activity, net_profit):
 
-    if pd.isna(cfo) or pd.isna(pat):
-        return None, "Missing"
+    value = safe_divide(
+        operating_activity,
+        net_profit
+    )
 
-    if pat == 0:
-        return None, "PAT Zero"
-
-    ratio = cfo / pat
-
-    if ratio > 1:
-        label = "High Quality"
-    elif ratio >= 0.5:
-        label = "Moderate"
-    else:
-        label = "Accrual Risk"
-
-    return round(ratio, 2), label
+    return value
 
 
-# ---------------------------------
-# CapEx Intensity
-# ---------------------------------
-def capex_intensity(capex, sales):
-    if pd.isna(capex) or pd.isna(sales):
-        return None, "Missing"
+# ----------------------------------------------------
+# CAPEX INTENSITY
+# ----------------------------------------------------
 
-    if sales == 0:
-        return None, "Sales Zero"
+def capex_intensity(investing_activity, sales):
 
-    intensity = abs(capex) / sales * 100
+    if pd.isna(investing_activity):
+        return None
 
-    if intensity < 3:
-        label = "Asset Light"
+    investing_activity = abs(investing_activity)
 
-    elif intensity <= 8:
-        label = "Moderate"
+    value = safe_divide(
+        investing_activity,
+        sales
+    )
 
-    else:
-        label = "Capital Intensive"
+    if value is None:
+        return None
 
-    return round(intensity, 2), label
+    return round(value * 100, 2)
 
 
-# ---------------------------------
-# FCF Conversion
-# ---------------------------------
+# ----------------------------------------------------
+# FCF CONVERSION
+# ----------------------------------------------------
+
 def fcf_conversion(fcf, operating_profit):
-    if pd.isna(fcf) or pd.isna(operating_profit):
+
+    value = safe_divide(
+        fcf,
+        operating_profit
+    )
+
+    if value is None:
         return None
 
-    if operating_profit == 0:
-        return None
-
-    return round(fcf / operating_profit * 100, 2)
+    return round(value * 100, 2)
 
 
-# ---------------------------------
-# Capital Allocation Pattern
-# ---------------------------------
-def capital_allocation(cfo, cfi, cff):
+# ----------------------------------------------------
+# CAPITAL ALLOCATION
+# ----------------------------------------------------
 
-    cfo_sign = "+" if cfo >= 0 else "-"
-    cfi_sign = "+" if cfi >= 0 else "-"
-    cff_sign = "+" if cff >= 0 else "-"
+def capital_allocation(
+        operating_activity,
+        investing_activity,
+        financing_activity):
 
-    pattern = cfo_sign + cfi_sign + cff_sign
+    def sign(v):
 
-    mapping = {
-        "+--": "Reinvestor",
-        "++-": "Shareholder Returns",
-        "+++": "Liquidating Assets",
-        "-++": "Distress Signal",
-        "--+": "Growth Funded by Debt",
-        "+-+": "Mixed",
-        "---": "Pre-Revenue",
-        "-+-": "Other"
-    }
+        if pd.isna(v):
+            return "0"
 
-    return pattern, mapping.get(pattern, "Unknown")
+        if v > 0:
+            return "+"
+
+        if v < 0:
+            return "-"
+
+        return "0"
+
+    cfo = sign(operating_activity)
+    cfi = sign(investing_activity)
+    cff = sign(financing_activity)
+
+    if cfo == "+" and cfi == "-" and cff == "-":
+        return "Reinvestment"
+
+    if cfo == "+" and cfi == "-" and cff == "+":
+        return "Growth Funded by Debt"
+
+    if cfo == "+" and cfi == "+" and cff == "-":
+        return "Shareholder Returns"
+
+    if cfo == "+" and cfi == "+" and cff == "+":
+        return "Cash Accumulator"
+
+    if cfo == "-" and cfi == "-" and cff == "+":
+        return "Distress Signal"
+
+    if cfo == "-" and cfi == "-" and cff == "-":
+        return "Pre-Revenue"
+
+    return "Mixed"
+
+
+# ----------------------------------------------------
+# CFO SCORE
+# ----------------------------------------------------
+
+def cashflow_score(
+        fcf,
+        cfo_quality_ratio,
+        capex):
+
+    score = 0
+
+    if fcf is not None and fcf > 0:
+        score += 40
+
+    if cfo_quality_ratio is not None:
+
+        if cfo_quality_ratio > 1:
+            score += 30
+
+        elif cfo_quality_ratio > 0.7:
+            score += 20
+
+    if capex is not None:
+
+        if capex < 5:
+            score += 30
+
+        elif capex < 10:
+            score += 20
+
+    return score
+
+
+print("Cash Flow KPI Library Loaded Successfully")

@@ -6,11 +6,11 @@ conn = sqlite3.connect("data/nifty100.db")
 
 df = pd.read_sql("""
 SELECT *
-FROM company_recommendations
-ORDER BY confidence_score DESC
+FROM company_rankings
+ORDER BY overall_rank
 """, conn)
 
-st.title("Investment Recommendations")
+st.title("Company Rankings")
 
 st.dataframe(df, use_container_width=True)
 

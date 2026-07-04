@@ -1,0 +1,57 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 203, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "G:\N100-Financial-Intelligence-Platform\src\analytics\ratio_engine.py", line 168, in <module>
+    engine.merge_tables()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "G:\N100-Financial-Intelligence-Platform\src\analytics\ratio_engine.py", line 124, in merge_tables
+    self.df = self.df.merge(
+              ~~~~~~~~~~~~~^
+    
+    
+    ...<5 lines>...
+    
+    
+    )
+    ^
+  File "G:\N100-Financial-Intelligence-Platform\venv\Lib\site-packages\pandas\core\frame.py", line 12900, in merge
+    return merge(
+        self,
+    ...<10 lines>...
+        validate=validate,
+    )
+  File "G:\N100-Financial-Intelligence-Platform\venv\Lib\site-packages\pandas\core\reshape\merge.py", line 399, in merge
+    return op.get_result()
+           ~~~~~~~~~~~~~^^
+  File "G:\N100-Financial-Intelligence-Platform\venv\Lib\site-packages\pandas\core\reshape\merge.py", line 1143, in get_result
+    result = self._reindex_and_concat(join_index, left_indexer, right_indexer)
+  File "G:\N100-Financial-Intelligence-Platform\venv\Lib\site-packages\pandas\core\reshape\merge.py", line 1094, in _reindex_and_concat
+    llabels, rlabels = _items_overlap_with_suffix(
+                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self.left._info_axis, self.right._info_axis, self.suffixes
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "G:\N100-Financial-Intelligence-Platform\venv\Lib\site-packages\pandas\core\reshape\merge.py", line 3131, in _items_overlap_with_suffix
+    raise MergeError(
+    ...<2 lines>...
+    )
+pandas.errors.MergeError: Passing 'suffixes' which cause duplicate columns {'id_x', 'id_y'} is not allowed.
+Financial Ratio Library Loaded Successfully
+Cash Flow KPI Library Loaded Successfully
+CAGR Engine Loaded Successfully
+============================================================
+Loading Database Tables
+============================================================
+Profit & Loss : 1276
+Balance Sheet : 1312
+Cash Flow     : 1187
+Market Cap    : 552
+Analysis      : 20
+
+Duplicates Removed
+
+Duplicates Removed
+Data Types Fixed
+
+Merging Tables...

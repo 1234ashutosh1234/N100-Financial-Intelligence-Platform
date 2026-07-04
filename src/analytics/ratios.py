@@ -1,140 +1,174 @@
+"""
+Financial Ratio Functions
+Sprint 2 - Financial Ratio Engine
+"""
+
 import pandas as pd
-import numpy as np
 
 
-# -------------------------------
-# Net Profit Margin
-# -------------------------------
+def safe_divide(a, b):
+    """Safely divide two numbers."""
+    if pd.isna(a) or pd.isna(b):
+        return None
+    if b == 0:
+        return None
+    return round(a / b, 2)
+
+
+# ----------------------------
+# PROFITABILITY RATIOS
+# ----------------------------
+
 def net_profit_margin(net_profit, sales):
-    if pd.isna(net_profit) or pd.isna(sales):
-        return None
-
-    if sales == 0:
-        return None
-
-    return round((net_profit / sales) * 100, 2)
+    value = safe_divide(net_profit, sales)
+    return None if value is None else round(value * 100, 2)
 
 
-# -------------------------------
-# Operating Profit Margin
-# -------------------------------
-def operating_profit_margin(op_profit, sales):
-    if pd.isna(op_profit) or pd.isna(sales):
-        return None
-
-    if sales == 0:
-        return None
-
-    return round((op_profit / sales) * 100, 2)
+def operating_profit_margin(operating_profit, sales):
+    value = safe_divide(operating_profit, sales)
+    return None if value is None else round(value * 100, 2)
 
 
-# -------------------------------
-# Return on Equity
-# -------------------------------
 def roe(net_profit, equity):
-    if pd.isna(net_profit) or pd.isna(equity):
-        return None
-
-    if equity <= 0:
-        return None
-
-    return round((net_profit / equity) * 100, 2)
+    value = safe_divide(net_profit, equity)
+    return None if value is None else round(value * 100, 2)
 
 
-# -------------------------------
-# Return on Capital Employed
-# -------------------------------
-def roce(ebit, equity, borrowings):
-    if pd.isna(ebit):
-        return None
-
-    capital = equity + borrowings
-
-    if capital <= 0:
-        return None
-
-    return round((ebit / capital) * 100, 2)
+def roce(ebit, capital_employed):
+    value = safe_divide(ebit, capital_employed)
+    return None if value is None else round(value * 100, 2)
 
 
-# -------------------------------
-# Return on Assets
-# -------------------------------
 def roa(net_profit, total_assets):
-    if pd.isna(net_profit) or pd.isna(total_assets):
+    value = safe_divide(net_profit, total_assets)
+    return None if value is None else round(value * 100, 2)
+
+
+# ----------------------------
+# LEVERAGE RATIOS
+# ----------------------------
+
+def debt_to_equity(total_debt, equity):
+    return safe_divide(total_debt, equity)
+
+
+def interest_coverage(ebit, interest):
+    return safe_divide(ebit, interest)
+
+
+def debt_ratio(total_liabilities, total_assets):
+    return safe_divide(total_liabilities, total_assets)
+
+
+def equity_ratio(equity, total_assets):
+    return safe_divide(equity, total_assets)
+
+
+def net_debt(total_debt, investments):
+    if pd.isna(total_debt):
         return None
-
-    if total_assets == 0:
-        return None
-
-    return round((net_profit / total_assets) * 100, 2)
-
-# ---------------------------------
-# Debt to Equity Ratio
-# ---------------------------------
-def debt_to_equity(borrowings, equity):
-    if pd.isna(borrowings) or pd.isna(equity):
-        return None
-
-    if equity <= 0:
-        return None
-
-    return round(borrowings / equity, 2)
-
-
-# ---------------------------------
-# Interest Coverage Ratio
-# ---------------------------------
-def interest_coverage(operating_profit, interest):
-    if pd.isna(operating_profit) or pd.isna(interest):
-        return None
-
-    if interest == 0:
-        return None
-
-    return round(operating_profit / interest, 2)
-
-
-# ---------------------------------
-# Net Debt
-# ---------------------------------
-def net_debt(borrowings, investments):
-    if pd.isna(borrowings):
-        return None
-
     if pd.isna(investments):
         investments = 0
+    return round(total_debt - investments, 2)
 
-    return round(borrowings - investments, 2)
 
+# ----------------------------
+# EFFICIENCY RATIOS
+# ----------------------------
 
-# ---------------------------------
-# Asset Turnover
-# ---------------------------------
 def asset_turnover(sales, total_assets):
-    if pd.isna(sales) or pd.isna(total_assets):
+    return safe_divide(sales, total_assets)
+
+
+def capital_turnover(sales, capital_employed):
+    return safe_divide(sales, capital_employed)
+
+
+def fixed_asset_turnover(sales, fixed_assets):
+    return safe_divide(sales, fixed_assets)
+
+
+# ----------------------------
+# SHAREHOLDER RATIOS
+# ----------------------------
+
+def book_value_per_share(networth, equity_capital):
+    return safe_divide(networth, equity_capital)
+
+
+def earnings_per_share(net_profit, equity_capital):
+    return safe_divide(net_profit, equity_capital)
+
+
+def dividend_payout(dividend, net_profit):
+    value = safe_divide(dividend, net_profit)
+    return None if value is None else round(value * 100, 2)
+
+
+# ----------------------------
+# GROWTH RATIOS
+# ----------------------------
+
+def revenue_growth(current_sales, previous_sales):
+    if previous_sales == 0 or pd.isna(previous_sales):
         return None
+    return round(((current_sales - previous_sales) / previous_sales) * 100, 2)
 
-    if total_assets == 0:
+
+def profit_growth(current_profit, previous_profit):
+    if previous_profit == 0 or pd.isna(previous_profit):
         return None
-
-    return round(sales / total_assets, 2)
-
-
-# ---------------------------------
-# High Leverage Flag
-# ---------------------------------
-def high_leverage_flag(de_ratio):
-    if de_ratio is None:
-        return False
-
-    return de_ratio > 5
+    return round(((current_profit - previous_profit) / previous_profit) * 100, 2)
 
 
-# ---------------------------------
-# ICR Warning Flag
-# ---------------------------------
-def icr_warning(icr):
-    if icr is None:
-        return False
+# ----------------------------
+# HEALTH SCORE
+# ----------------------------
 
-    return icr < 1.5
+def health_score(roe_pct, debt_equity, npm):
+    score = 0
+
+    if roe_pct is not None:
+        if roe_pct > 20:
+            score += 40
+        elif roe_pct > 15:
+            score += 30
+        elif roe_pct > 10:
+            score += 20
+
+    if debt_equity is not None:
+        if debt_equity < 0.5:
+            score += 30
+        elif debt_equity < 1:
+            score += 20
+
+    if npm is not None:
+        if npm > 20:
+            score += 30
+        elif npm > 10:
+            score += 20
+
+    return score
+
+
+# ----------------------------
+# QUALITY SCORE
+# ----------------------------
+
+def quality_score(roe_pct, debt_equity, interest_cov):
+
+    score = 0
+
+    if roe_pct and roe_pct > 15:
+        score += 40
+
+    if debt_equity is not None and debt_equity < 1:
+        score += 30
+
+    if interest_cov and interest_cov > 5:
+        score += 30
+
+    return score
+
+
+print("Financial Ratio Library Loaded Successfully")

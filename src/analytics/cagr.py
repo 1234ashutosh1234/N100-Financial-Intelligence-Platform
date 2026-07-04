@@ -1,43 +1,73 @@
+"""
+CAGR Engine
+Sprint 2
+"""
+
 import pandas as pd
-import numpy as np
 
 
 def calculate_cagr(start_value, end_value, years):
     """
-    Returns:
-        (cagr_value, flag)
+    CAGR Formula:
+    ((End / Start) ** (1 / Years) - 1) * 100
     """
 
-    if years <= 0:
-        return None, "INVALID"
-
     if pd.isna(start_value) or pd.isna(end_value):
-        return None, "MISSING"
+        return None
 
-    if start_value == 0:
-        return None, "ZERO_BASE"
+    if start_value <= 0:
+        return None
 
-    if start_value < 0 and end_value < 0:
-        return None, "BOTH_NEGATIVE"
+    if years <= 0:
+        return None
 
-    if start_value < 0 and end_value > 0:
-        return None, "TURNAROUND"
-
-    if start_value > 0 and end_value < 0:
-        return None, "DECLINE_TO_LOSS"
-
-    cagr = ((end_value / start_value) ** (1 / years) - 1) * 100
-
-    return round(cagr, 2), "OK"
+    try:
+        cagr = ((end_value / start_value) ** (1 / years) - 1) * 100
+        return round(cagr, 2)
+    except:
+        return None
 
 
-def revenue_cagr(start_revenue, end_revenue, years):
-    return calculate_cagr(start_revenue, end_revenue, years)
+def revenue_cagr(start_sales, end_sales, years):
+    return calculate_cagr(start_sales, end_sales, years)
 
 
-def pat_cagr(start_pat, end_pat, years):
-    return calculate_cagr(start_pat, end_pat, years)
+def pat_cagr(start_profit, end_profit, years):
+    return calculate_cagr(start_profit, end_profit, years)
 
 
 def eps_cagr(start_eps, end_eps, years):
     return calculate_cagr(start_eps, end_eps, years)
+
+
+def growth_flag(value):
+    if value is None:
+        return "INSUFFICIENT"
+
+    if value > 15:
+        return "HIGH"
+
+    if value > 8:
+        return "MEDIUM"
+
+    if value > 0:
+        return "LOW"
+
+    return "NEGATIVE"
+
+
+def turnaround(start_profit, end_profit):
+
+    if start_profit < 0 and end_profit > 0:
+        return "TURNAROUND"
+
+    if start_profit > 0 and end_profit < 0:
+        return "DECLINE"
+
+    if start_profit < 0 and end_profit < 0:
+        return "LOSS"
+
+    return "NORMAL"
+
+
+print("CAGR Engine Loaded Successfully")
