@@ -1,35 +1,113 @@
+"""
+N100 Financial Intelligence Platform
+Sprint 3
+Peer Comparison Report
+"""
+
 import sqlite3
 import pandas as pd
 
-conn = sqlite3.connect("data/nifty100.db")
+DB = "data/nifty100.db"
 
-query = """
-SELECT
-    company_id,
-    return_on_equity_pct,
-    net_profit_margin_pct,
-    debt_to_equity
-FROM financial_ratios
-"""
 
-df = pd.read_sql(query, conn)
+class PeerComparisonEngine:
 
-peer = df.groupby("company_id").agg({
-    "return_on_equity_pct":"mean",
-    "net_profit_margin_pct":"mean",
-    "debt_to_equity":"mean"
-}).reset_index()
+    def __init__(self):
 
-peer = peer.sort_values(
-    "return_on_equity_pct",
-    ascending=False
-)
+        self.conn = sqlite3.connect(DB)
 
-peer.to_csv(
-    "output/peer_comparison.csv",
-    index=False
-)
+        print("=" * 60)
+        print("Peer Comparison Report")
+        print("=" * 60)
 
-print(peer.head(10))
+        self.load_data()
 
-conn.close()
+    # --------------------------------------------------
+
+    def load_data(self):
+
+        self.df = pd.read_sql(
+            """
+            SELECT *
+            FROM peer_percentiles
+            """,
+            self.conn
+        )
+
+        print("Rows Loaded :", len(self.df))
+
+    # --------------------------------------------------
+
+    def create_report(self):
+
+        print("\nGenerating Excel Report...")
+
+        metrics = [
+
+            "return_on_equity_pct_rank",
+            "roce_pct_rank",
+            "net_profit_margin_pct_rank",
+            "debt_to_equity_rank",
+            "free_cash_flow_cr_rank",
+            "sales_cagr_pct_rank",
+            "profit_cagr_pct_rank",
+            "eps_cagr_pct_rank"
+
+        ]
+
+        output = "output/peer_comparison.xlsx"
+
+        with pd.ExcelWriter(
+            output,
+            engine="openpyxl"
+        ) as writer:
+
+            summary = self.df.copy()
+
+            summary.to_excel(
+                writer,
+                sheet_name="All Companies",
+                index=False
+            )
+
+            for metric in metrics:
+
+                rank_df = self.df[
+                    [
+                        "company_id",
+                        "year",
+                        metric
+                    ]
+                ].sort_values(
+                    by=metric,
+                    ascending=False
+                )
+
+                sheet = metric.replace("_rank", "")
+
+                sheet = sheet[:31]
+
+                rank_df.to_excel(
+                    writer,
+                    sheet_name=sheet,
+                    index=False
+                )
+
+        print("✓ peer_comparison.xlsx created")
+
+    # --------------------------------------------------
+
+    def close(self):
+
+        self.conn.close()
+
+        print("\nDatabase Closed")
+
+
+if __name__ == "__main__":
+
+    engine = PeerComparisonEngine()
+
+    engine.create_report()
+
+    engine.close()
