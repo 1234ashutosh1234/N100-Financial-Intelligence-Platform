@@ -30,6 +30,27 @@ The N100 Financial Intelligence Platform is a Python-based financial analytics p
 - Dashboard Integration
 - Excel Report Export
 
+## Sprint 4 Features
+
+• Interactive Dashboard
+• Advanced Stock Screener
+• Peer Comparison
+• Trend Analytics
+• Sector Analytics
+• Capital Allocation Dashboard
+• Valuation Engine
+• CSV & Excel Export
+
+## Sprint 5 Features
+
+- NLP-based financial text parsing
+- Automatic Pros & Cons generation
+- Cash Flow Intelligence analysis
+- Capital allocation change detection
+- Company PDF tearsheets
+- Sector-wise PDF reports
+- Portfolio summary report
+
 ---
 
 ## Technology Stack

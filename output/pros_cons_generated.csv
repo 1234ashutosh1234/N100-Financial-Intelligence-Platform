@@ -1,0 +1,1210 @@
+company_id,year,pros,cons,confidence_score
+ABB,Dec 2012,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+ABB,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+ABB,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+ABB,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+ABB,Mar 2017,Strong ROCE; Low Debt; Positive Free Cash Flow,,45
+ABB,Mar 2018,High ROE; Strong ROCE; Low Debt; Strong Profit Growth,Negative Free Cash Flow,70
+ABB,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+ABB,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+ABB,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+ABB,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+ABB,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+ABB,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+ADANIENSOL,Mar 2014,Low Debt,Low ROE; Low ROCE,35
+ADANIENSOL,Mar 2015,Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,65
+ADANIENSOL,Mar 2016,Positive Free Cash Flow; Strong Revenue Growth,High Debt; Weak Profit Growth,50
+ADANIENSOL,Mar 2017,Positive Free Cash Flow; Strong Revenue Growth,High Debt,40
+ADANIENSOL,Mar 2018,Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,40
+ADANIENSOL,Mar 2019,Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,65
+ADANIENSOL,Mar 2020,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROE; Negative Free Cash Flow,60
+ADANIENSOL,Mar 2021,Strong Profit Growth,High Debt; Negative Free Cash Flow; Weak Revenue Growth,45
+ADANIENSOL,Mar 2022,Positive Free Cash Flow,High Debt; Weak Profit Growth,35
+ADANIENSOL,Mar 2023,Strong Revenue Growth,High Debt; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,55
+ADANIENSOL,Mar 2024,Positive Free Cash Flow; Strong Revenue Growth,High Debt; Low ROE; Weak Profit Growth,60
+ADANIENT,Mar 2013,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow,40
+ADANIENT,Mar 2014,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
+ADANIENT,Mar 2015,Strong Revenue Growth,High Debt; Low ROE; Negative Free Cash Flow; Weak Profit Growth,55
+ADANIENT,Mar 2016,Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+ADANIENT,Mar 2017,,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,40
+ADANIENT,Mar 2018,,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+ADANIENT,Mar 2019,Positive Free Cash Flow,Low ROE; Low ROCE; Weak Profit Growth,45
+ADANIENT,Mar 2020,Positive Free Cash Flow; Strong Profit Growth,Low ROE; Low ROCE,50
+ADANIENT,Mar 2021,,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+ADANIENT,Mar 2022,Strong Revenue Growth,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,55
+ADANIENT,Mar 2023,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,Low ROE,55
+ADANIENT,Mar 2024,Strong Profit Growth,Low ROE; Negative Free Cash Flow; Weak Revenue Growth,45
+ADANIGREEN,Mar 2017,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow,40
+ADANIGREEN,Mar 2018,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow,70
+ADANIGREEN,Mar 2019,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROE; Negative Free Cash Flow,60
+ADANIGREEN,Mar 2020,Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,65
+ADANIGREEN,Mar 2021,Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,65
+ADANIGREEN,Mar 2022,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+ADANIGREEN,Mar 2023,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
+ADANIGREEN,Mar 2024,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+ADANIPORTS,Mar 2013,High ROE,Negative Free Cash Flow,25
+ADANIPORTS,Mar 2014,Strong Revenue Growth,Negative Free Cash Flow,25
+ADANIPORTS,Mar 2015,High ROE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+ADANIPORTS,Mar 2016,High ROE; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,55
+ADANIPORTS,Mar 2017,High ROE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+ADANIPORTS,Mar 2018,Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,40
+ADANIPORTS,Mar 2019,Positive Free Cash Flow,Weak Revenue Growth,25
+ADANIPORTS,Mar 2020,Positive Free Cash Flow,Weak Profit Growth,25
+ADANIPORTS,Mar 2021,Strong Profit Growth,Negative Free Cash Flow,25
+ADANIPORTS,Mar 2022,Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,40
+ADANIPORTS,Mar 2023,Strong Revenue Growth,Negative Free Cash Flow,25
+ADANIPORTS,Mar 2024,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,45
+ADANIPOWER,Mar 2013,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow,40
+ADANIPOWER,Mar 2014,Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,65
+ADANIPOWER,Mar 2015,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROE; Low ROCE,75
+ADANIPOWER,Mar 2016,Positive Free Cash Flow; Strong Revenue Growth,High Debt; Low ROE; Weak Profit Growth,60
+ADANIPOWER,Mar 2017,Positive Free Cash Flow,High Debt; Low ROE; Weak Revenue Growth; Weak Profit Growth,55
+ADANIPOWER,Mar 2018,Positive Free Cash Flow,High Debt; Low ROE; Weak Revenue Growth; Weak Profit Growth,55
+ADANIPOWER,Mar 2019,Positive Free Cash Flow; Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Weak Profit Growth,70
+ADANIPOWER,Mar 2020,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROE; Low ROCE,60
+ADANIPOWER,Mar 2021,Positive Free Cash Flow,High Debt; Low ROE; Weak Revenue Growth; Weak Profit Growth,55
+ADANIPOWER,Mar 2022,High ROE; Positive Free Cash Flow; Strong Profit Growth,High Debt,55
+ADANIPOWER,Mar 2023,High ROE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+ADANIPOWER,Mar 2024,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+AMBUJACEM,Dec 2012,Strong ROCE; Low Debt; Positive Free Cash Flow,,45
+AMBUJACEM,Dec 2013,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+AMBUJACEM,Dec 2014,Low Debt; Positive Free Cash Flow; Strong Profit Growth,,45
+AMBUJACEM,Dec 2015,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+AMBUJACEM,Dec 2016,Low Debt; Strong Revenue Growth; Strong Profit Growth,Low ROE; Negative Free Cash Flow,65
+AMBUJACEM,Dec 2017,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,Low ROE,70
+AMBUJACEM,Dec 2018,Low Debt; Positive Free Cash Flow; Strong Profit Growth,,45
+AMBUJACEM,Dec 2019,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+AMBUJACEM,Dec 2020,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,55
+AMBUJACEM,Dec 2021,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+AMBUJACEM,Mar 2024,Low Debt; Strong Profit Growth,Negative Free Cash Flow,40
+APOLLOHOSP,Mar 2013,Low Debt,Negative Free Cash Flow,25
+APOLLOHOSP,Mar 2014,Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,55
+APOLLOHOSP,Mar 2015,Strong Revenue Growth,Negative Free Cash Flow,25
+APOLLOHOSP,Mar 2016,Strong Revenue Growth,Low ROE; Negative Free Cash Flow; Weak Profit Growth,45
+APOLLOHOSP,Mar 2017,Strong Revenue Growth,Low ROE; Negative Free Cash Flow; Weak Profit Growth,45
+APOLLOHOSP,Mar 2018,Positive Free Cash Flow,Low ROE; Weak Profit Growth,35
+APOLLOHOSP,Mar 2019,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,Low ROE,55
+APOLLOHOSP,Mar 2020,Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+APOLLOHOSP,Mar 2021,Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,45
+APOLLOHOSP,Mar 2022,Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+APOLLOHOSP,Mar 2023,Positive Free Cash Flow,Weak Profit Growth,25
+APOLLOHOSP,Mar 2024,Positive Free Cash Flow,,15
+ASIANPAINT,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+ASIANPAINT,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+ASIANPAINT,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+ASIANPAINT,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+ASIANPAINT,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+ASIANPAINT,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+ASIANPAINT,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+ASIANPAINT,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+ASIANPAINT,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+ASIANPAINT,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,85
+ASIANPAINT,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+ASIANPAINT,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+AXISBANK,Mar 2013,,High Debt; Low ROCE; Negative Free Cash Flow,30
+AXISBANK,Mar 2014,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROCE,50
+AXISBANK,Mar 2015,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+AXISBANK,Mar 2016,Strong Revenue Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+AXISBANK,Mar 2017,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE; Weak Profit Growth,55
+AXISBANK,Mar 2018,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+AXISBANK,Mar 2019,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROE; Low ROCE,75
+AXISBANK,Mar 2020,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE; Weak Profit Growth,55
+AXISBANK,Mar 2021,Strong Profit Growth,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth,65
+AXISBANK,Mar 2022,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROCE,50
+AXISBANK,Mar 2023,Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,65
+AXISBANK,Mar 2024,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+BAJAJ-AUTO,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+BAJAJ-AUTO,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,70
+BAJAJ-AUTO,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+BAJAJ-AUTO,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+BAJAJ-AUTO,Mar 2017,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,75
+BAJAJ-AUTO,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,85
+BAJAJ-AUTO,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+BAJAJ-AUTO,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,70
+BAJAJ-AUTO,Mar 2021,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+BAJAJ-AUTO,Mar 2022,High ROE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+BAJAJ-AUTO,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+BAJAJ-AUTO,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+BAJAJFINSV,Mar 2013,High ROE,Negative Free Cash Flow,25
+BAJAJFINSV,Mar 2014,High ROE,High Debt; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,55
+BAJAJFINSV,Mar 2015,High ROE; Strong Revenue Growth,High Debt; Negative Free Cash Flow,50
+BAJAJFINSV,Mar 2016,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,65
+BAJAJFINSV,Mar 2017,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,65
+BAJAJFINSV,Mar 2018,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,65
+BAJAJFINSV,Mar 2019,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,65
+BAJAJFINSV,Mar 2020,Strong Revenue Growth,High Debt; Negative Free Cash Flow,35
+BAJAJFINSV,Mar 2021,High ROE; Positive Free Cash Flow; Strong Profit Growth,High Debt,55
+BAJAJFINSV,Mar 2022,High ROE,High Debt; Negative Free Cash Flow,35
+BAJAJFINSV,Mar 2023,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,65
+BAJAJFINSV,Mar 2024,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,65
+BAJAJHLDNG,Mar 2013,Low Debt; Positive Free Cash Flow,Low ROCE,40
+BAJAJHLDNG,Mar 2014,Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Low ROCE,55
+BAJAJHLDNG,Mar 2015,Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Low ROCE; Weak Profit Growth,65
+BAJAJHLDNG,Mar 2016,Low Debt; Positive Free Cash Flow,Low ROCE; Weak Revenue Growth,50
+BAJAJHLDNG,Mar 2017,Low Debt; Strong Revenue Growth,Low ROCE; Negative Free Cash Flow,50
+BAJAJHLDNG,Mar 2018,Low Debt; Positive Free Cash Flow,Low ROCE; Weak Revenue Growth,50
+BAJAJHLDNG,Mar 2019,Low Debt; Positive Free Cash Flow,Low ROCE; Weak Revenue Growth,50
+BAJAJHLDNG,Mar 2020,Low Debt; Positive Free Cash Flow,Low ROCE; Weak Revenue Growth; Weak Profit Growth,60
+BAJAJHLDNG,Mar 2021,Low Debt; Strong Profit Growth,Low ROE; Low ROCE; Negative Free Cash Flow,60
+BAJAJHLDNG,Mar 2022,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE,50
+BAJAJHLDNG,Mar 2023,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROCE,55
+BAJAJHLDNG,Mar 2024,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,Low ROCE,70
+BAJFINANCE,Mar 2015,,High Debt; Low ROCE; Negative Free Cash Flow,30
+BAJFINANCE,Mar 2016,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+BAJFINANCE,Mar 2017,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+BAJFINANCE,Mar 2018,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+BAJFINANCE,Mar 2019,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,75
+BAJFINANCE,Mar 2020,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+BAJFINANCE,Mar 2021,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+BAJFINANCE,Mar 2022,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+BAJFINANCE,Mar 2023,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,75
+BAJFINANCE,Mar 2024,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+BANKBARODA,Mar 2013,Positive Free Cash Flow,High Debt; Low ROCE,35
+BANKBARODA,Mar 2014,Positive Free Cash Flow,High Debt; Low ROCE; Weak Profit Growth,45
+BANKBARODA,Mar 2015,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE; Weak Profit Growth,55
+BANKBARODA,Mar 2016,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+BANKBARODA,Mar 2017,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,65
+BANKBARODA,Mar 2018,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+BANKBARODA,Mar 2019,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,50
+BANKBARODA,Mar 2020,Positive Free Cash Flow; Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Weak Profit Growth,70
+BANKBARODA,Mar 2021,Strong Profit Growth,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth,65
+BANKBARODA,Mar 2022,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROE; Low ROCE; Weak Revenue Growth,70
+BANKBARODA,Mar 2023,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+BANKBARODA,Mar 2024,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+BEL,Mar 2013,High ROE; Strong ROCE; Positive Free Cash Flow,High Debt,55
+BEL,Mar 2014,High ROE; Strong ROCE; Positive Free Cash Flow,High Debt; Weak Revenue Growth; Weak Profit Growth,75
+BEL,Mar 2015,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,High Debt,70
+BEL,Mar 2016,High ROE; Strong ROCE; Positive Free Cash Flow,High Debt; Weak Revenue Growth,65
+BEL,Mar 2017,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth,,60
+BEL,Mar 2018,High ROE; Strong ROCE; Strong Revenue Growth,Negative Free Cash Flow; Weak Profit Growth,65
+BEL,Mar 2019,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+BEL,Mar 2020,High ROE; Strong ROCE; Positive Free Cash Flow,Weak Profit Growth,55
+BEL,Mar 2021,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,,60
+BEL,Mar 2022,High ROE; Strong ROCE,Negative Free Cash Flow,40
+BEL,Mar 2023,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+BEL,Mar 2024,High ROE; Strong ROCE; Strong Profit Growth,Negative Free Cash Flow,55
+BHARTIARTL,Mar 2013,Positive Free Cash Flow,Low ROE,25
+BHARTIARTL,Mar 2014,Positive Free Cash Flow; Strong Profit Growth,Low ROE,40
+BHARTIARTL,Mar 2015,Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,High Debt,55
+BHARTIARTL,Mar 2016,Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,55
+BHARTIARTL,Mar 2017,Strong ROCE,Low ROE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,55
+BHARTIARTL,Mar 2018,Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,45
+BHARTIARTL,Mar 2019,,Low ROE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,40
+BHARTIARTL,Mar 2020,,Low ROE; Negative Free Cash Flow; Weak Profit Growth,30
+BHARTIARTL,Mar 2021,Strong ROCE; Positive Free Cash Flow,High Debt; Low ROE; Weak Profit Growth,60
+BHARTIARTL,Mar 2022,Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth,High Debt; Weak Profit Growth,65
+BHARTIARTL,Mar 2023,Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt,70
+BHARTIARTL,Mar 2024,Strong ROCE; Positive Free Cash Flow,High Debt; Weak Profit Growth,50
+BHEL,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+BHEL,Mar 2014,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+BHEL,Mar 2015,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,70
+BHEL,Mar 2016,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,70
+BHEL,Mar 2017,Low Debt,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,55
+BHEL,Mar 2018,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,70
+BHEL,Mar 2019,Low Debt; Strong Profit Growth,Low ROE; Low ROCE; Negative Free Cash Flow,60
+BHEL,Mar 2020,Low Debt,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,65
+BHEL,Mar 2021,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROE; Low ROCE; Weak Revenue Growth,75
+BHEL,Mar 2022,Low Debt; Strong Revenue Growth,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,70
+BHEL,Mar 2023,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROE; Low ROCE,65
+BHEL,Mar 2024,Low Debt,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,65
+BOSCHLTD,Dec 2012,Strong ROCE; Low Debt; Positive Free Cash Flow,,45
+BOSCHLTD,Dec 2013,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+BOSCHLTD,Mar 2015,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+BOSCHLTD,Mar 2016,Low Debt; Positive Free Cash Flow,Weak Revenue Growth,40
+BOSCHLTD,Mar 2017,Strong ROCE; Low Debt; Positive Free Cash Flow,,45
+BOSCHLTD,Mar 2018,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,55
+BOSCHLTD,Mar 2019,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,70
+BOSCHLTD,Mar 2020,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+BOSCHLTD,Mar 2021,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+BOSCHLTD,Mar 2022,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+BOSCHLTD,Mar 2023,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+BOSCHLTD,Mar 2024,High ROE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,60
+BPCL,Mar 2013,Positive Free Cash Flow,,15
+BPCL,Mar 2014,High ROE; Positive Free Cash Flow; Strong Profit Growth,,45
+BPCL,Mar 2015,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,70
+BPCL,Mar 2016,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,70
+BPCL,Mar 2017,High ROE; Strong ROCE; Strong Profit Growth,Negative Free Cash Flow,55
+BPCL,Mar 2018,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,70
+BPCL,Mar 2019,High ROE; Strong Revenue Growth,Negative Free Cash Flow; Weak Profit Growth,50
+BPCL,Mar 2020,,Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,40
+BPCL,Mar 2021,High ROE; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,55
+BPCL,Mar 2022,High ROE; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,55
+BPCL,Mar 2023,Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Low ROCE; Weak Profit Growth,60
+BPCL,Mar 2024,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,70
+BRITANNIA,Mar 2013,High ROE; Strong ROCE; Positive Free Cash Flow,,45
+BRITANNIA,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+BRITANNIA,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+BRITANNIA,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+BRITANNIA,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+BRITANNIA,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+BRITANNIA,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+BRITANNIA,Mar 2020,High ROE; Strong ROCE; Low Debt; Strong Profit Growth,Negative Free Cash Flow; Weak Revenue Growth,80
+BRITANNIA,Mar 2021,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,,60
+BRITANNIA,Mar 2022,High ROE; Strong ROCE; Positive Free Cash Flow,Weak Profit Growth,55
+BRITANNIA,Mar 2023,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+BRITANNIA,Mar 2024,High ROE; Strong ROCE; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+CANBK,Mar 2013,Positive Free Cash Flow,High Debt; Low ROCE,35
+CANBK,Mar 2014,Positive Free Cash Flow; Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Weak Profit Growth,70
+CANBK,Mar 2015,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE,45
+CANBK,Mar 2016,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,65
+CANBK,Mar 2017,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,65
+CANBK,Mar 2018,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+CANBK,Mar 2019,Positive Free Cash Flow; Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Weak Profit Growth,70
+CANBK,Mar 2020,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+CANBK,Mar 2021,Positive Free Cash Flow; Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Weak Profit Growth,70
+CANBK,Mar 2022,Strong Profit Growth,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth,65
+CANBK,Mar 2023,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+CANBK,Mar 2024,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
+CHOLAFIN,Mar 2013,,High Debt; Low ROCE; Negative Free Cash Flow,30
+CHOLAFIN,Mar 2014,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+CHOLAFIN,Mar 2015,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+CHOLAFIN,Mar 2016,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+CHOLAFIN,Mar 2017,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+CHOLAFIN,Mar 2018,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+CHOLAFIN,Mar 2019,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+CHOLAFIN,Mar 2020,Strong Revenue Growth,High Debt; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,55
+CHOLAFIN,Mar 2021,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+CHOLAFIN,Mar 2022,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+CHOLAFIN,Mar 2023,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+CHOLAFIN,Mar 2024,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+CIPLA,Mar 2013,Strong ROCE; Low Debt,Negative Free Cash Flow,40
+CIPLA,Mar 2014,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,70
+CIPLA,Mar 2015,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,55
+CIPLA,Mar 2016,Strong ROCE; Low Debt; Strong Revenue Growth,Negative Free Cash Flow,55
+CIPLA,Mar 2017,Strong ROCE; Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,75
+CIPLA,Mar 2018,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROE,70
+CIPLA,Mar 2019,Strong ROCE; Low Debt; Positive Free Cash Flow,Low ROE,55
+CIPLA,Mar 2020,Strong ROCE; Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,75
+CIPLA,Mar 2021,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,60
+CIPLA,Mar 2022,Strong ROCE; Low Debt; Positive Free Cash Flow,,45
+CIPLA,Mar 2023,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,55
+CIPLA,Mar 2024,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,60
+COALINDIA,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+COALINDIA,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+COALINDIA,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+COALINDIA,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+COALINDIA,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+COALINDIA,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+COALINDIA,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+COALINDIA,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+COALINDIA,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+COALINDIA,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+COALINDIA,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+COALINDIA,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+DABUR,Mar 2013,High ROE; Strong ROCE; Positive Free Cash Flow,,45
+DABUR,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+DABUR,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+DABUR,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+DABUR,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+DABUR,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,70
+DABUR,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+DABUR,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+DABUR,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+DABUR,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+DABUR,Mar 2023,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,55
+DABUR,Mar 2024,Strong ROCE; Low Debt; Positive Free Cash Flow,,45
+DIVISLAB,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+DIVISLAB,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+DIVISLAB,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+DIVISLAB,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+DIVISLAB,Mar 2017,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,55
+DIVISLAB,Mar 2018,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+DIVISLAB,Mar 2019,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+DIVISLAB,Mar 2020,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,55
+DIVISLAB,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+DIVISLAB,Mar 2022,High ROE; Strong ROCE; Low Debt; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,85
+DIVISLAB,Mar 2023,Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,45
+DIVISLAB,Mar 2024,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+DLF,Mar 2013,Positive Free Cash Flow,Low ROE; Low ROCE,35
+DLF,Mar 2014,Positive Free Cash Flow,Low ROE; Low ROCE; Weak Profit Growth,45
+DLF,Mar 2015,Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+DLF,Mar 2016,Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Low ROCE; Weak Profit Growth,60
+DLF,Mar 2017,Strong Profit Growth,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth,55
+DLF,Mar 2018,Low Debt; Strong Profit Growth,Low ROCE; Negative Free Cash Flow; Weak Revenue Growth,60
+DLF,Mar 2019,Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Low ROCE; Weak Profit Growth,60
+DLF,Mar 2020,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,70
+DLF,Mar 2021,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,70
+DLF,Mar 2022,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROE; Low ROCE,65
+DLF,Mar 2023,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROE; Low ROCE; Weak Revenue Growth,75
+DLF,Mar 2024,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROE; Low ROCE,65
+DMART,Mar 2013,,Negative Free Cash Flow,10
+DMART,Mar 2014,Strong ROCE; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,55
+DMART,Mar 2015,Strong ROCE; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,55
+DMART,Mar 2016,High ROE; Strong ROCE; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,70
+DMART,Mar 2017,Low Debt; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,55
+DMART,Mar 2018,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+DMART,Mar 2019,Strong ROCE; Low Debt; Strong Revenue Growth,Negative Free Cash Flow,55
+DMART,Mar 2020,Low Debt; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,55
+DMART,Mar 2021,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+DMART,Mar 2022,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+DMART,Mar 2023,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+DMART,Mar 2024,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,60
+DRREDDY,Mar 2013,High ROE; Strong ROCE,Negative Free Cash Flow,40
+DRREDDY,Mar 2014,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,,60
+DRREDDY,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+DRREDDY,Mar 2016,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+DRREDDY,Mar 2017,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+DRREDDY,Mar 2018,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+DRREDDY,Mar 2019,Low Debt; Positive Free Cash Flow; Strong Profit Growth,,45
+DRREDDY,Mar 2020,Low Debt; Positive Free Cash Flow,Weak Profit Growth,40
+DRREDDY,Mar 2021,Low Debt; Positive Free Cash Flow,Weak Profit Growth,40
+DRREDDY,Mar 2022,Low Debt; Positive Free Cash Flow,,30
+DRREDDY,Mar 2023,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,60
+DRREDDY,Mar 2024,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,60
+EICHERMOT,Dec 2012,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow,55
+EICHERMOT,Dec 2013,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow,55
+EICHERMOT,Dec 2014,High ROE; Strong ROCE; Low Debt; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,85
+EICHERMOT,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+EICHERMOT,Mar 2017,High ROE; Strong ROCE; Low Debt; Strong Profit Growth,Negative Free Cash Flow,70
+EICHERMOT,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+EICHERMOT,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+EICHERMOT,Mar 2020,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+EICHERMOT,Mar 2021,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+EICHERMOT,Mar 2022,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+EICHERMOT,Mar 2023,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+EICHERMOT,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+GAIL,Mar 2013,,Negative Free Cash Flow,10
+GAIL,Mar 2014,Positive Free Cash Flow; Strong Revenue Growth,,30
+GAIL,Mar 2015,Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,45
+GAIL,Mar 2016,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,70
+GAIL,Mar 2017,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROE; Weak Revenue Growth,65
+GAIL,Mar 2018,Low Debt; Positive Free Cash Flow; Strong Profit Growth,,45
+GAIL,Mar 2019,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+GAIL,Mar 2020,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,55
+GAIL,Mar 2021,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+GAIL,Mar 2022,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+GAIL,Mar 2023,Low Debt; Strong Revenue Growth,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,70
+GAIL,Mar 2024,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,55
+GODREJCP,Mar 2013,High ROE,Negative Free Cash Flow,25
+GODREJCP,Mar 2014,High ROE; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,55
+GODREJCP,Mar 2015,High ROE; Strong Profit Growth,Negative Free Cash Flow,40
+GODREJCP,Mar 2016,Strong ROCE; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+GODREJCP,Mar 2017,High ROE; Strong ROCE; Strong Profit Growth,Negative Free Cash Flow,55
+GODREJCP,Mar 2018,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,,60
+GODREJCP,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+GODREJCP,Mar 2020,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+GODREJCP,Mar 2021,Strong ROCE; Low Debt; Positive Free Cash Flow,,45
+GODREJCP,Mar 2022,Low Debt; Positive Free Cash Flow,Weak Profit Growth,40
+GODREJCP,Mar 2023,Low Debt; Positive Free Cash Flow,Weak Profit Growth,40
+GODREJCP,Mar 2024,Low Debt,Low ROE; Negative Free Cash Flow; Weak Profit Growth,45
+GRASIM,Mar 2013,Strong ROCE; Low Debt,Negative Free Cash Flow,40
+GRASIM,Mar 2014,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+GRASIM,Mar 2015,Positive Free Cash Flow,Weak Profit Growth,25
+GRASIM,Mar 2016,Low Debt; Positive Free Cash Flow; Strong Profit Growth,,45
+GRASIM,Mar 2017,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,55
+GRASIM,Mar 2018,Strong Revenue Growth,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,55
+GRASIM,Mar 2019,Strong Revenue Growth,Low ROE; Negative Free Cash Flow; Weak Profit Growth,45
+GRASIM,Mar 2020,Positive Free Cash Flow; Strong Profit Growth,Low ROCE; Weak Revenue Growth,50
+GRASIM,Mar 2021,Positive Free Cash Flow,,15
+GRASIM,Mar 2022,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,45
+GRASIM,Mar 2023,Strong Revenue Growth,Negative Free Cash Flow; Weak Profit Growth,35
+GRASIM,Mar 2024,,Negative Free Cash Flow; Weak Profit Growth,20
+HAL,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+HAL,Mar 2018,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,75
+HAL,Mar 2019,High ROE; Strong ROCE; Low Debt; Strong Profit Growth,Negative Free Cash Flow,70
+HAL,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+HAL,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+HAL,Mar 2022,High ROE; Strong ROCE; Low Debt; Strong Profit Growth,Negative Free Cash Flow,70
+HAL,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+HAL,Mar 2024,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,,60
+HAVELLS,Mar 2013,High ROE; Strong ROCE; Positive Free Cash Flow,,45
+HAVELLS,Mar 2014,High ROE; Strong ROCE; Positive Free Cash Flow,Weak Profit Growth,55
+HAVELLS,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+HAVELLS,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+HAVELLS,Mar 2017,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+HAVELLS,Mar 2018,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+HAVELLS,Mar 2019,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+HAVELLS,Mar 2020,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+HAVELLS,Mar 2021,High ROE; Strong ROCE; Low Debt; Strong Profit Growth,Negative Free Cash Flow,70
+HAVELLS,Mar 2022,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,60
+HAVELLS,Mar 2023,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,70
+HAVELLS,Mar 2024,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,60
+HCLTECH,Jun 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+HCLTECH,Jun 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+HCLTECH,Jun 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+HCLTECH,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+HCLTECH,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+HCLTECH,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+HCLTECH,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+HCLTECH,Mar 2021,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,55
+HCLTECH,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+HCLTECH,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+HCLTECH,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+HDFCBANK,Mar 2013,,High Debt; Low ROCE; Negative Free Cash Flow,30
+HDFCBANK,Mar 2013,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2013,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2013,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2014,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
+HDFCBANK,Mar 2014,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2014,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2014,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2015,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+HDFCBANK,Mar 2015,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2015,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2015,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2016,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+HDFCBANK,Mar 2016,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2016,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2016,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2017,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
+HDFCBANK,Mar 2017,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2017,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2017,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2018,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
+HDFCBANK,Mar 2018,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2018,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2018,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2019,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+HDFCBANK,Mar 2019,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2019,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2019,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2020,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+HDFCBANK,Mar 2020,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2020,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2020,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2021,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROCE,50
+HDFCBANK,Mar 2021,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2021,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2021,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2022,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+HDFCBANK,Mar 2022,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2022,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2022,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+HDFCBANK,Mar 2023,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
+HDFCBANK,Mar 2023,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2023,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2023,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2024,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
+HDFCBANK,Mar 2024,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2024,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCBANK,Mar 2024,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+HDFCLIFE,Mar 2013,High ROE; Strong ROCE; Low Debt,,45
+HDFCLIFE,Mar 2014,High ROE; Strong ROCE; Low Debt; Strong Revenue Growth; Strong Profit Growth,,75
+HDFCLIFE,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+HDFCLIFE,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+HDFCLIFE,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+HDFCLIFE,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+HDFCLIFE,Mar 2019,High ROE; Strong ROCE; Low Debt; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,85
+HDFCLIFE,Mar 2020,Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+HDFCLIFE,Mar 2021,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,70
+HDFCLIFE,Mar 2022,Strong ROCE; Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,75
+HDFCLIFE,Mar 2023,Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+HDFCLIFE,Mar 2024,Strong ROCE; Low Debt; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,70
+HEROMOTOCO,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+HEROMOTOCO,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+HEROMOTOCO,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+HEROMOTOCO,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,70
+HEROMOTOCO,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+HEROMOTOCO,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+HEROMOTOCO,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,70
+HEROMOTOCO,Mar 2021,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,55
+HEROMOTOCO,Mar 2022,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+HEROMOTOCO,Mar 2023,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+HEROMOTOCO,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+HINDALCO,Mar 2013,Strong ROCE,Low ROE; Negative Free Cash Flow,35
+HINDALCO,Mar 2014,Strong ROCE,Low ROE; Negative Free Cash Flow; Weak Profit Growth,45
+HINDALCO,Mar 2015,Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Weak Profit Growth,65
+HINDALCO,Mar 2016,Strong ROCE; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+HINDALCO,Mar 2017,Strong ROCE; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+HINDALCO,Mar 2018,Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,,45
+HINDALCO,Mar 2019,Strong ROCE; Positive Free Cash Flow,Low ROE; Weak Profit Growth,50
+HINDALCO,Mar 2020,Strong ROCE; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+HINDALCO,Mar 2021,Strong ROCE,Low ROE; Negative Free Cash Flow; Weak Profit Growth,45
+HINDALCO,Mar 2022,Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+HINDALCO,Mar 2023,Strong ROCE; Positive Free Cash Flow,Weak Profit Growth,40
+HINDALCO,Mar 2024,Strong ROCE; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+HINDUNILVR,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+HINDUNILVR,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+HINDUNILVR,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+HINDUNILVR,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+HINDUNILVR,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,70
+HINDUNILVR,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+HINDUNILVR,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+HINDUNILVR,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,70
+HINDUNILVR,Mar 2021,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+HINDUNILVR,Mar 2022,Strong ROCE; Low Debt; Positive Free Cash Flow,,45
+HINDUNILVR,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+HINDUNILVR,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+ICICIBANK,Mar 2013,,High Debt; Low ROCE; Negative Free Cash Flow,30
+ICICIBANK,Mar 2014,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+ICICIBANK,Mar 2015,,High Debt; Low ROCE; Negative Free Cash Flow,30
+ICICIBANK,Mar 2016,Positive Free Cash Flow,High Debt; Low ROCE; Weak Profit Growth,45
+ICICIBANK,Mar 2017,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+ICICIBANK,Mar 2018,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+ICICIBANK,Mar 2019,Positive Free Cash Flow; Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Weak Profit Growth,70
+ICICIBANK,Mar 2020,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROE; Low ROCE,75
+ICICIBANK,Mar 2021,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROCE,50
+ICICIBANK,Mar 2022,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROCE,50
+ICICIBANK,Mar 2023,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+ICICIBANK,Mar 2024,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
+ICICIGI,Mar 2013,Strong ROCE; Low Debt; Positive Free Cash Flow,,45
+ICICIGI,Mar 2014,High ROE; Strong ROCE; Low Debt; Strong Profit Growth,Negative Free Cash Flow,70
+ICICIGI,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,70
+ICICIGI,Mar 2016,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,70
+ICICIGI,Mar 2017,Strong ROCE; Low Debt; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,70
+ICICIGI,Mar 2018,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,70
+ICICIGI,Mar 2019,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+ICICIGI,Mar 2020,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,55
+ICICIGI,Mar 2021,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,60
+ICICIGI,Mar 2022,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,70
+ICICIGI,Mar 2023,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,60
+ICICIGI,Mar 2024,Strong ROCE; Low Debt; Positive Free Cash Flow,,45
+ICICIPRULI,Mar 2013,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow,55
+ICICIPRULI,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+ICICIPRULI,Mar 2015,High ROE; Strong ROCE; Low Debt; Strong Revenue Growth,Negative Free Cash Flow,70
+ICICIPRULI,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+ICICIPRULI,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,85
+ICICIPRULI,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+ICICIPRULI,Mar 2019,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,55
+ICICIPRULI,Mar 2020,Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+ICICIPRULI,Mar 2021,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,70
+ICICIPRULI,Mar 2022,Strong ROCE; Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,75
+ICICIPRULI,Mar 2023,Strong ROCE; Low Debt,Low ROE; Negative Free Cash Flow; Weak Revenue Growth,60
+ICICIPRULI,Mar 2024,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Weak Profit Growth,80
+INDIGO,Mar 2013,High ROE; Strong ROCE,High Debt; Negative Free Cash Flow,50
+INDIGO,Mar 2014,High ROE; Strong ROCE; Strong Revenue Growth,High Debt; Negative Free Cash Flow; Weak Profit Growth,75
+INDIGO,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+INDIGO,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+INDIGO,Mar 2017,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,70
+INDIGO,Mar 2018,High ROE; Strong ROCE; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,70
+INDIGO,Mar 2019,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,70
+INDIGO,Mar 2020,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Weak Profit Growth,80
+INDIGO,Mar 2021,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROE; Weak Revenue Growth,80
+INDIGO,Mar 2022,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Weak Profit Growth,80
+INDIGO,Mar 2023,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Weak Profit Growth,80
+INDIGO,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,85
+INDUSINDBK,Mar 2013,,High Debt; Low ROCE; Negative Free Cash Flow,30
+INDUSINDBK,Mar 2014,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+INDUSINDBK,Mar 2015,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+INDUSINDBK,Mar 2016,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+INDUSINDBK,Mar 2017,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
+INDUSINDBK,Mar 2018,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+INDUSINDBK,Mar 2019,Strong Revenue Growth,High Debt; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,55
+INDUSINDBK,Mar 2020,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+INDUSINDBK,Mar 2021,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,65
+INDUSINDBK,Mar 2022,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROE; Low ROCE,60
+INDUSINDBK,Mar 2023,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+INDUSINDBK,Mar 2024,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+INFY,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+INFY,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+INFY,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+INFY,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+INFY,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2017,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow,55
+INFY,Mar 2017,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,75
+INFY,Mar 2017,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,75
+INFY,Mar 2017,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,75
+INFY,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,70
+INFY,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,85
+INFY,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+INFY,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+INFY,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+INFY,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+INFY,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,70
+INFY,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+INFY,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+IOC,Mar 2013,Positive Free Cash Flow,Low ROE; Low ROCE,35
+IOC,Mar 2014,Positive Free Cash Flow; Strong Profit Growth,,30
+IOC,Mar 2015,Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+IOC,Mar 2016,Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,40
+IOC,Mar 2017,Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,55
+IOC,Mar 2018,Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth,,45
+IOC,Mar 2019,Strong Revenue Growth,Negative Free Cash Flow; Weak Profit Growth,35
+IOC,Mar 2020,,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+IOC,Mar 2021,Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,35
+IOC,Mar 2022,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,45
+IOC,Mar 2023,Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Weak Profit Growth,50
+IOC,Mar 2024,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,70
+IRCTC,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+IRCTC,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+IRCTC,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+IRCTC,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+IRCTC,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+IRCTC,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+IRCTC,Mar 2021,Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,45
+IRCTC,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+IRCTC,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+IRCTC,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+IRFC,Mar 2016,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow,40
+IRFC,Mar 2017,Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow,55
+IRFC,Mar 2018,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth,55
+IRFC,Mar 2019,Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow,55
+IRFC,Mar 2020,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+IRFC,Mar 2021,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+IRFC,Mar 2022,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+IRFC,Mar 2023,Strong Revenue Growth,High Debt; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,55
+IRFC,Mar 2024,Positive Free Cash Flow,High Debt; Low ROCE; Weak Profit Growth,45
+ITC,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+ITC,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+ITC,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+ITC,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+ITC,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+ITC,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,70
+ITC,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+ITC,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+ITC,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+ITC,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+ITC,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+ITC,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,70
+JINDALSTEL,Mar 2013,,Negative Free Cash Flow,10
+JINDALSTEL,Mar 2014,,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+JINDALSTEL,Mar 2015,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+JINDALSTEL,Mar 2016,Positive Free Cash Flow; Strong Profit Growth,Low ROE; Low ROCE; Weak Revenue Growth,60
+JINDALSTEL,Mar 2017,Positive Free Cash Flow,Low ROE; Low ROCE; Weak Profit Growth,45
+JINDALSTEL,Mar 2018,Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Low ROCE; Weak Profit Growth,60
+JINDALSTEL,Mar 2019,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,Low ROE,55
+JINDALSTEL,Mar 2020,Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+JINDALSTEL,Mar 2021,Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,35
+JINDALSTEL,Mar 2022,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+JINDALSTEL,Mar 2023,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+JINDALSTEL,Mar 2024,Low Debt; Strong Profit Growth,Negative Free Cash Flow; Weak Revenue Growth,50
+JIOFIN,Mar 2023,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE,50
+JIOFIN,Mar 2024,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,Low ROE; Low ROCE,80
+JSWENERGY,Mar 2013,Positive Free Cash Flow,,15
+JSWENERGY,Mar 2014,Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,35
+JSWENERGY,Mar 2015,Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,,45
+JSWENERGY,Mar 2016,Positive Free Cash Flow,,15
+JSWENERGY,Mar 2017,Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,45
+JSWENERGY,Mar 2018,Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,45
+JSWENERGY,Mar 2019,Positive Free Cash Flow; Strong Profit Growth,Low ROE,40
+JSWENERGY,Mar 2020,Positive Free Cash Flow; Strong Profit Growth,Low ROE; Weak Revenue Growth,50
+JSWENERGY,Mar 2021,Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,45
+JSWENERGY,Mar 2022,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,45
+JSWENERGY,Mar 2023,Strong Revenue Growth,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,55
+JSWENERGY,Mar 2024,Strong Profit Growth,Low ROE; Negative Free Cash Flow,35
+JSWSTEEL,Mar 2013,Positive Free Cash Flow,Low ROE,25
+JSWSTEEL,Mar 2014,Strong Revenue Growth,Low ROE; Negative Free Cash Flow; Weak Profit Growth,45
+JSWSTEEL,Mar 2015,Positive Free Cash Flow; Strong Profit Growth,Low ROE; Weak Revenue Growth,50
+JSWSTEEL,Mar 2016,Positive Free Cash Flow,High Debt; Low ROE; Weak Revenue Growth; Weak Profit Growth,55
+JSWSTEEL,Mar 2017,Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,40
+JSWSTEEL,Mar 2018,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+JSWSTEEL,Mar 2019,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+JSWSTEEL,Mar 2020,,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,30
+JSWSTEEL,Mar 2021,Positive Free Cash Flow; Strong Profit Growth,,30
+JSWSTEEL,Mar 2022,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+JSWSTEEL,Mar 2023,Positive Free Cash Flow,Low ROE; Weak Profit Growth,35
+JSWSTEEL,Mar 2024,Strong Profit Growth,Negative Free Cash Flow,25
+KOTAKBANK,Mar 2013,,High Debt; Low ROCE; Negative Free Cash Flow,30
+KOTAKBANK,Mar 2014,Positive Free Cash Flow,High Debt; Low ROCE,35
+KOTAKBANK,Mar 2015,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+KOTAKBANK,Mar 2016,Positive Free Cash Flow; Strong Revenue Growth,High Debt; Low ROCE,50
+KOTAKBANK,Mar 2017,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROCE,50
+KOTAKBANK,Mar 2018,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+KOTAKBANK,Mar 2019,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+KOTAKBANK,Mar 2020,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROCE,50
+KOTAKBANK,Mar 2021,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth,55
+KOTAKBANK,Mar 2022,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth,55
+KOTAKBANK,Mar 2023,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+KOTAKBANK,Mar 2024,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
+LICI,Mar 2019,High ROE; Positive Free Cash Flow,High Debt; Low ROCE,50
+LICI,Mar 2020,High ROE; Positive Free Cash Flow,High Debt; Low ROCE; Weak Profit Growth,60
+LICI,Mar 2021,High ROE; Low Debt; Positive Free Cash Flow,Low ROCE,55
+LICI,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+LICI,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+LICI,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+LODHA,Mar 2016,,High Debt; Negative Free Cash Flow,20
+LODHA,Mar 2017,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+LODHA,Mar 2018,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
+LODHA,Mar 2019,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,65
+LODHA,Mar 2020,Positive Free Cash Flow,High Debt; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+LODHA,Mar 2021,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,65
+LODHA,Mar 2022,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,Low ROE; Low ROCE,65
+LODHA,Mar 2023,Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+LODHA,Mar 2024,Low Debt; Strong Profit Growth,Low ROE; Negative Free Cash Flow,50
+LT,Mar 2013,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow,55
+LT,Mar 2014,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Profit Growth,65
+LT,Mar 2015,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Profit Growth,65
+LT,Mar 2016,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Profit Growth,65
+LT,Mar 2017,High ROE; Strong ROCE; Low Debt; Strong Profit Growth,Negative Free Cash Flow,70
+LT,Mar 2018,High ROE; Strong ROCE; Low Debt; Strong Profit Growth,Negative Free Cash Flow,70
+LT,Mar 2019,High ROE; Strong ROCE; Low Debt; Strong Profit Growth,Negative Free Cash Flow,70
+LT,Mar 2020,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow,55
+LT,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+LT,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,85
+LT,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+LT,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+LTIM,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+LTIM,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+LTIM,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+LTIM,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+LTIM,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+LTIM,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+LTIM,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+LTIM,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,85
+LTIM,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+LTIM,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+LTIM,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+LTIM,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+M&M,Mar 2013,High ROE,Negative Free Cash Flow,25
+M&M,Mar 2014,High ROE; Strong Profit Growth,Negative Free Cash Flow,40
+M&M,Mar 2015,,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,30
+M&M,Mar 2016,,Negative Free Cash Flow,10
+M&M,Mar 2017,,Negative Free Cash Flow,10
+M&M,Mar 2018,High ROE; Strong Profit Growth,Negative Free Cash Flow,40
+M&M,Mar 2019,,Negative Free Cash Flow; Weak Profit Growth,20
+M&M,Mar 2020,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+M&M,Mar 2021,,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+M&M,Mar 2022,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,45
+M&M,Mar 2023,High ROE; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,55
+M&M,Mar 2024,,Negative Free Cash Flow,10
+MARUTI,Mar 2013,Strong ROCE; Low Debt; Positive Free Cash Flow,,45
+MARUTI,Mar 2014,Strong ROCE; Low Debt; Strong Profit Growth,Negative Free Cash Flow; Weak Revenue Growth,65
+MARUTI,Mar 2015,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,60
+MARUTI,Mar 2016,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,60
+MARUTI,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+MARUTI,Mar 2018,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,70
+MARUTI,Mar 2019,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,55
+MARUTI,Mar 2020,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+MARUTI,Mar 2021,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+MARUTI,Mar 2022,Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Weak Profit Growth,65
+MARUTI,Mar 2023,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+MARUTI,Mar 2024,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+MOTHERSON,Mar 2013,Strong ROCE; Positive Free Cash Flow,High Debt,40
+MOTHERSON,Mar 2014,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+MOTHERSON,Mar 2015,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,,60
+MOTHERSON,Mar 2016,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,,60
+MOTHERSON,Mar 2017,High ROE; Strong ROCE; Strong Profit Growth,Negative Free Cash Flow,55
+MOTHERSON,Mar 2018,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,70
+MOTHERSON,Mar 2019,Strong ROCE; Positive Free Cash Flow,Weak Profit Growth,40
+MOTHERSON,Mar 2020,Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,35
+MOTHERSON,Mar 2021,Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,40
+MOTHERSON,Mar 2022,Positive Free Cash Flow,Low ROE; Weak Profit Growth,35
+MOTHERSON,Mar 2023,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,Low ROE,55
+MOTHERSON,Mar 2024,Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+NAUKRI,Mar 2013,Low Debt; Positive Free Cash Flow,,30
+NAUKRI,Mar 2014,Low Debt; Strong Revenue Growth,Low ROE; Negative Free Cash Flow; Weak Profit Growth,60
+NAUKRI,Mar 2015,Low Debt; Strong Revenue Growth,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,70
+NAUKRI,Mar 2016,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,70
+NAUKRI,Mar 2017,Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Low ROCE; Weak Profit Growth,75
+NAUKRI,Mar 2018,High ROE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,55
+NAUKRI,Mar 2019,High ROE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,Low ROCE,85
+NAUKRI,Mar 2020,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE; Weak Profit Growth,60
+NAUKRI,Mar 2021,High ROE; Low Debt,Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,70
+NAUKRI,Mar 2022,High ROE; Low Debt; Strong Revenue Growth; Strong Profit Growth,Low ROCE; Negative Free Cash Flow,80
+NAUKRI,Mar 2023,Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Low ROCE; Weak Profit Growth,75
+NAUKRI,Mar 2024,Low Debt,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,55
+NESTLEIND,Dec 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+NESTLEIND,Dec 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+NESTLEIND,Dec 2015,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+NESTLEIND,Dec 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+NESTLEIND,Dec 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+NESTLEIND,Dec 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+NESTLEIND,Dec 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+NESTLEIND,Dec 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+NESTLEIND,Dec 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+NESTLEIND,Dec 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+NESTLEIND,Dec 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+NESTLEIND,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+NHPC,Mar 2013,Positive Free Cash Flow,Low ROE; Low ROCE,35
+NHPC,Mar 2014,Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Low ROCE; Weak Profit Growth,60
+NHPC,Mar 2015,Positive Free Cash Flow; Strong Profit Growth,Low ROE,40
+NHPC,Mar 2016,Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+NHPC,Mar 2017,Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,40
+NHPC,Mar 2018,Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+NHPC,Mar 2019,Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Low ROCE; Weak Profit Growth,60
+NHPC,Mar 2020,Positive Free Cash Flow; Strong Profit Growth,Low ROCE,40
+NHPC,Mar 2021,Positive Free Cash Flow,Low ROCE; Weak Revenue Growth,35
+NHPC,Mar 2022,Positive Free Cash Flow,Low ROCE; Weak Revenue Growth; Weak Profit Growth,45
+NHPC,Mar 2023,Positive Free Cash Flow; Strong Revenue Growth,Low ROCE,40
+NHPC,Mar 2024,Positive Free Cash Flow,Low ROCE; Weak Revenue Growth; Weak Profit Growth,45
+NTPC,Mar 2013,,Negative Free Cash Flow,10
+NTPC,Mar 2014,Positive Free Cash Flow,Weak Profit Growth,25
+NTPC,Mar 2015,,Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,40
+NTPC,Mar 2016,Positive Free Cash Flow,Low ROCE; Weak Revenue Growth,35
+NTPC,Mar 2017,,Negative Free Cash Flow; Weak Profit Growth,20
+NTPC,Mar 2018,,Low ROCE; Negative Free Cash Flow; Weak Profit Growth,30
+NTPC,Mar 2019,Strong Profit Growth,Low ROCE; Negative Free Cash Flow,35
+NTPC,Mar 2020,,Low ROCE; Negative Free Cash Flow; Weak Profit Growth,30
+NTPC,Mar 2021,Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,40
+NTPC,Mar 2022,Positive Free Cash Flow; Strong Revenue Growth,,30
+NTPC,Mar 2023,Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,40
+NTPC,Mar 2024,Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,40
+ONGC,Mar 2013,Strong ROCE; Low Debt,Negative Free Cash Flow,40
+ONGC,Mar 2014,Strong ROCE; Low Debt,Negative Free Cash Flow,40
+ONGC,Mar 2015,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+ONGC,Mar 2016,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+ONGC,Mar 2017,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+ONGC,Mar 2018,,Negative Free Cash Flow; Weak Profit Growth,20
+ONGC,Mar 2019,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+ONGC,Mar 2020,Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,45
+ONGC,Mar 2021,Positive Free Cash Flow; Strong Profit Growth,Low ROE; Weak Revenue Growth,50
+ONGC,Mar 2022,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+ONGC,Mar 2023,Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,40
+ONGC,Mar 2024,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,70
+PFC,Mar 2013,,High Debt; Low ROCE; Negative Free Cash Flow,30
+PFC,Mar 2014,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+PFC,Mar 2015,Strong Revenue Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+PFC,Mar 2016,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,40
+PFC,Mar 2017,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,65
+PFC,Mar 2018,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,75
+PFC,Mar 2019,High ROE; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+PFC,Mar 2020,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,40
+PFC,Mar 2021,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,75
+PFC,Mar 2022,High ROE; Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROCE,65
+PFC,Mar 2023,High ROE,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth,55
+PFC,Mar 2024,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,75
+PIDILITIND,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+PIDILITIND,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+PIDILITIND,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+PIDILITIND,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+PIDILITIND,Mar 2017,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Revenue Growth,65
+PIDILITIND,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+PIDILITIND,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,85
+PIDILITIND,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+PIDILITIND,Mar 2021,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,75
+PIDILITIND,Mar 2022,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,60
+PIDILITIND,Mar 2023,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,60
+PIDILITIND,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,85
+PNB,Mar 2013,High ROE,High Debt; Negative Free Cash Flow,35
+PNB,Mar 2014,High ROE; Positive Free Cash Flow,High Debt; Weak Revenue Growth; Weak Profit Growth,60
+PNB,Mar 2015,High ROE; Positive Free Cash Flow,High Debt; Weak Profit Growth,50
+PNB,Mar 2016,Positive Free Cash Flow,High Debt; Low ROE; Weak Revenue Growth; Weak Profit Growth,55
+PNB,Mar 2017,High ROE; Positive Free Cash Flow,High Debt; Weak Revenue Growth; Weak Profit Growth,60
+PNB,Mar 2018,,High Debt; Low ROE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+PNB,Mar 2019,,High Debt; Low ROE; Negative Free Cash Flow; Weak Profit Growth,40
+PNB,Mar 2020,,High Debt; Low ROE; Negative Free Cash Flow; Weak Profit Growth,40
+PNB,Mar 2021,High ROE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt,70
+PNB,Mar 2022,High ROE; Positive Free Cash Flow; Strong Profit Growth,High Debt; Weak Revenue Growth,65
+PNB,Mar 2023,High ROE; Positive Free Cash Flow,High Debt; Weak Profit Growth,50
+PNB,Mar 2024,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,65
+POWERGRID,Mar 2013,,High Debt; Negative Free Cash Flow,20
+POWERGRID,Mar 2014,Strong Revenue Growth,High Debt; Negative Free Cash Flow,35
+POWERGRID,Mar 2015,,High Debt; Negative Free Cash Flow,20
+POWERGRID,Mar 2016,Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,50
+POWERGRID,Mar 2017,Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,50
+POWERGRID,Mar 2018,Strong Revenue Growth,High Debt; Negative Free Cash Flow,35
+POWERGRID,Mar 2019,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt,55
+POWERGRID,Mar 2020,Positive Free Cash Flow,High Debt,25
+POWERGRID,Mar 2021,Positive Free Cash Flow,High Debt,25
+POWERGRID,Mar 2022,High ROE; Positive Free Cash Flow; Strong Profit Growth,,45
+POWERGRID,Mar 2023,Positive Free Cash Flow,Weak Profit Growth,25
+POWERGRID,Mar 2024,Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,35
+RECLTD,Mar 2013,High ROE,High Debt; Negative Free Cash Flow,35
+RECLTD,Mar 2014,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,65
+RECLTD,Mar 2015,High ROE; Strong Revenue Growth,High Debt; Negative Free Cash Flow,50
+RECLTD,Mar 2016,Strong Revenue Growth,High Debt; Negative Free Cash Flow,35
+RECLTD,Mar 2017,Positive Free Cash Flow,High Debt; Weak Revenue Growth,35
+RECLTD,Mar 2018,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+RECLTD,Mar 2019,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+RECLTD,Mar 2020,Strong Revenue Growth,High Debt; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,55
+RECLTD,Mar 2021,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+RECLTD,Mar 2022,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+RECLTD,Mar 2023,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth,40
+RECLTD,Mar 2024,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,75
+RELIANCE,Mar 2013,Positive Free Cash Flow,,15
+RELIANCE,Mar 2014,,Negative Free Cash Flow,10
+RELIANCE,Mar 2015,,Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,40
+RELIANCE,Mar 2016,Positive Free Cash Flow; Strong Profit Growth,Low ROCE; Weak Revenue Growth,50
+RELIANCE,Mar 2017,,Low ROCE; Negative Free Cash Flow; Weak Profit Growth,30
+RELIANCE,Mar 2018,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,45
+RELIANCE,Mar 2019,Strong Revenue Growth,Negative Free Cash Flow,25
+RELIANCE,Mar 2020,Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,45
+RELIANCE,Mar 2021,Low Debt; Strong Profit Growth,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth,70
+RELIANCE,Mar 2022,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,Low ROE; Low ROCE,80
+RELIANCE,Mar 2023,Positive Free Cash Flow; Strong Revenue Growth,,30
+RELIANCE,Mar 2024,Positive Free Cash Flow,Low ROE; Weak Revenue Growth,35
+SBILIFE,Mar 2013,High ROE; Low Debt; Positive Free Cash Flow,,45
+SBILIFE,Mar 2013,High ROE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+SBILIFE,Mar 2013,High ROE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+SBILIFE,Mar 2013,High ROE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+SBILIFE,Mar 2014,High ROE; Low Debt; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,70
+SBILIFE,Mar 2014,High ROE; Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+SBILIFE,Mar 2014,High ROE; Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+SBILIFE,Mar 2014,High ROE; Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+SBILIFE,Mar 2015,High ROE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,60
+SBILIFE,Mar 2015,High ROE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+SBILIFE,Mar 2015,High ROE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+SBILIFE,Mar 2015,High ROE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+SBILIFE,Mar 2016,Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,45
+SBILIFE,Mar 2016,Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,45
+SBILIFE,Mar 2016,Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,45
+SBILIFE,Mar 2016,Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,45
+SBILIFE,Mar 2017,Low Debt; Strong Revenue Growth,Negative Free Cash Flow,40
+SBILIFE,Mar 2017,Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,45
+SBILIFE,Mar 2017,Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,45
+SBILIFE,Mar 2017,Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,45
+SBILIFE,Mar 2018,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,60
+SBILIFE,Mar 2018,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+SBILIFE,Mar 2018,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+SBILIFE,Mar 2018,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+SBILIFE,Mar 2019,Low Debt; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,55
+SBILIFE,Mar 2019,Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,45
+SBILIFE,Mar 2019,Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,45
+SBILIFE,Mar 2019,Low Debt,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,45
+SBILIFE,Mar 2020,Low Debt; Positive Free Cash Flow,Weak Revenue Growth,40
+SBILIFE,Mar 2020,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+SBILIFE,Mar 2020,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+SBILIFE,Mar 2020,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+SBILIFE,Mar 2021,Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Low ROCE; Weak Profit Growth,65
+SBILIFE,Mar 2021,Low Debt; Positive Free Cash Flow,Low ROCE; Weak Revenue Growth; Weak Profit Growth,60
+SBILIFE,Mar 2021,Low Debt; Positive Free Cash Flow,Low ROCE; Weak Revenue Growth; Weak Profit Growth,60
+SBILIFE,Mar 2021,Low Debt; Positive Free Cash Flow,Low ROCE; Weak Revenue Growth; Weak Profit Growth,60
+SBILIFE,Mar 2022,Low Debt; Positive Free Cash Flow,Low ROCE; Weak Revenue Growth; Weak Profit Growth,60
+SBILIFE,Mar 2022,Low Debt; Positive Free Cash Flow,Low ROCE; Weak Revenue Growth; Weak Profit Growth,60
+SBILIFE,Mar 2022,Low Debt; Positive Free Cash Flow,Low ROCE; Weak Revenue Growth; Weak Profit Growth,60
+SBILIFE,Mar 2022,Low Debt; Positive Free Cash Flow,Low ROCE; Weak Revenue Growth; Weak Profit Growth,60
+SBILIFE,Mar 2023,Low Debt,Low ROCE; Negative Free Cash Flow; Weak Revenue Growth,45
+SBILIFE,Mar 2023,Low Debt,Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,55
+SBILIFE,Mar 2023,Low Debt,Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,55
+SBILIFE,Mar 2023,Low Debt,Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,55
+SBILIFE,Mar 2024,Low Debt; Strong Revenue Growth,Low ROCE; Negative Free Cash Flow,50
+SBILIFE,Mar 2024,Low Debt,Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,55
+SBILIFE,Mar 2024,Low Debt,Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,55
+SBILIFE,Mar 2024,Low Debt,Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,55
+SHREECEM,Jun 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+SHREECEM,Jun 2014,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,55
+SHREECEM,Jun 2015,Strong ROCE; Low Debt; Positive Free Cash Flow,Low ROE; Weak Profit Growth,65
+SHREECEM,Mar 2017,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+SHREECEM,Mar 2018,Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Profit Growth,50
+SHREECEM,Mar 2019,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,70
+SHREECEM,Mar 2020,Strong ROCE; Low Debt; Strong Profit Growth,Negative Free Cash Flow; Weak Revenue Growth,65
+SHREECEM,Mar 2021,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,60
+SHREECEM,Mar 2022,Low Debt; Positive Free Cash Flow,Low ROE; Weak Profit Growth,50
+SHREECEM,Mar 2023,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+SHREECEM,Mar 2024,Strong ROCE; Low Debt; Positive Free Cash Flow,Low ROE; Weak Profit Growth,65
+SHRIRAMFIN,Mar 2013,,High Debt; Low ROCE; Negative Free Cash Flow,30
+SHRIRAMFIN,Mar 2014,Strong Revenue Growth,High Debt; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,55
+SHRIRAMFIN,Mar 2015,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,40
+SHRIRAMFIN,Mar 2016,Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,45
+SHRIRAMFIN,Mar 2017,,High Debt; Low ROCE; Negative Free Cash Flow,30
+SHRIRAMFIN,Mar 2018,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+SHRIRAMFIN,Mar 2019,Strong Revenue Growth,High Debt; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,55
+SHRIRAMFIN,Mar 2020,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,40
+SHRIRAMFIN,Mar 2021,,High Debt; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,40
+SHRIRAMFIN,Mar 2022,,High Debt; Low ROCE; Negative Free Cash Flow,30
+SHRIRAMFIN,Mar 2023,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+SHRIRAMFIN,Mar 2024,Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE; Negative Free Cash Flow,60
+SIEMENS,Sep 2011,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+SIEMENS,Sep 2014,Low Debt; Positive Free Cash Flow,Low ROCE; Weak Revenue Growth; Weak Profit Growth,60
+SIEMENS,Sep 2015,High ROE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,70
+SIEMENS,Sep 2016,High ROE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,70
+SIEMENS,Sep 2017,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+SIEMENS,Sep 2018,Low Debt; Strong Revenue Growth,Negative Free Cash Flow; Weak Profit Growth,50
+SIEMENS,Sep 2019,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,55
+SIEMENS,Sep 2020,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+SIEMENS,Sep 2021,Low Debt; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,55
+SIEMENS,Sep 2022,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+SIEMENS,Sep 2023,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+SIEMENS,Sep 2024,Low Debt; Positive Free Cash Flow; Strong Profit Growth,,45
+SUNPHARMA,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+SUNPHARMA,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+SUNPHARMA,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+SUNPHARMA,Mar 2016,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+SUNPHARMA,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+SUNPHARMA,Mar 2018,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+SUNPHARMA,Mar 2019,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROE,55
+SUNPHARMA,Mar 2020,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROE,55
+SUNPHARMA,Mar 2021,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+SUNPHARMA,Mar 2022,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,Low ROE,85
+SUNPHARMA,Mar 2023,Low Debt; Strong Profit Growth,Negative Free Cash Flow,40
+SUNPHARMA,Mar 2024,Low Debt; Positive Free Cash Flow,,30
+TATACONSUM,Mar 2013,Low Debt; Positive Free Cash Flow,Low ROE,40
+TATACONSUM,Mar 2014,Low Debt; Positive Free Cash Flow,Low ROE,40
+TATACONSUM,Mar 2015,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+TATACONSUM,Mar 2016,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,70
+TATACONSUM,Mar 2017,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+TATACONSUM,Mar 2018,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROE; Weak Revenue Growth,65
+TATACONSUM,Mar 2019,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE; Weak Profit Growth,60
+TATACONSUM,Mar 2020,Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Low ROCE; Weak Profit Growth,75
+TATACONSUM,Mar 2021,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,Low ROE; Low ROCE,80
+TATACONSUM,Mar 2022,Low Debt; Positive Free Cash Flow,Low ROE,40
+TATACONSUM,Mar 2023,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROE,55
+TATACONSUM,Mar 2024,Low Debt; Positive Free Cash Flow,Low ROE; Weak Profit Growth,50
+TATAMOTORS,Mar 2013,High ROE; Strong ROCE,Negative Free Cash Flow,40
+TATAMOTORS,Mar 2014,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+TATAMOTORS,Mar 2015,High ROE; Strong ROCE,Negative Free Cash Flow; Weak Profit Growth,50
+TATAMOTORS,Mar 2016,Strong ROCE; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+TATAMOTORS,Mar 2017,Strong ROCE,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,45
+TATAMOTORS,Mar 2018,Strong Profit Growth,Low ROE; Negative Free Cash Flow,35
+TATAMOTORS,Mar 2019,,Low ROE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,40
+TATAMOTORS,Mar 2020,,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,50
+TATAMOTORS,Mar 2021,Positive Free Cash Flow,High Debt; Low ROE; Weak Revenue Growth,45
+TATAMOTORS,Mar 2022,Positive Free Cash Flow,High Debt; Low ROE; Weak Profit Growth,45
+TATAMOTORS,Mar 2023,Positive Free Cash Flow; Strong Revenue Growth,High Debt; Low ROE; Weak Profit Growth,60
+TATAMOTORS,Mar 2024,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+TATAPOWER,Mar 2013,,High Debt; Low ROE; Negative Free Cash Flow,30
+TATAPOWER,Mar 2014,Positive Free Cash Flow,High Debt; Low ROE; Weak Profit Growth,45
+TATAPOWER,Mar 2015,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROE; Weak Revenue Growth,60
+TATAPOWER,Mar 2016,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROE; Low ROCE; Weak Revenue Growth,70
+TATAPOWER,Mar 2017,Strong Profit Growth,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth,65
+TATAPOWER,Mar 2018,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROCE; Weak Revenue Growth,60
+TATAPOWER,Mar 2019,Positive Free Cash Flow,High Debt; Low ROCE; Weak Profit Growth,45
+TATAPOWER,Mar 2020,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,65
+TATAPOWER,Mar 2021,Positive Free Cash Flow,High Debt; Low ROE,35
+TATAPOWER,Mar 2022,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROE; Low ROCE,75
+TATAPOWER,Mar 2023,Strong Revenue Growth; Strong Profit Growth,Low ROCE; Negative Free Cash Flow,50
+TATAPOWER,Mar 2024,Positive Free Cash Flow,,15
+TATASTEEL,Mar 2013,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE,45
+TATASTEEL,Mar 2014,,High Debt; Low ROE; Negative Free Cash Flow; Weak Profit Growth,40
+TATASTEEL,Mar 2015,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,65
+TATASTEEL,Mar 2016,Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+TATASTEEL,Mar 2017,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROE,50
+TATASTEEL,Mar 2018,High ROE,Negative Free Cash Flow; Weak Profit Growth,35
+TATASTEEL,Mar 2019,Strong Revenue Growth,Negative Free Cash Flow; Weak Profit Growth,35
+TATASTEEL,Mar 2020,Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,55
+TATASTEEL,Mar 2021,Positive Free Cash Flow; Strong Profit Growth,,30
+TATASTEEL,Mar 2022,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+TATASTEEL,Mar 2023,Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,45
+TATASTEEL,Mar 2024,Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,45
+TCS,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+TCS,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+TCS,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,85
+TCS,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+TCS,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+TCS,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2017,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+TCS,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,70
+TCS,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2020,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2021,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+TCS,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+TCS,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2023,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+TCS,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TCS,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,80
+TECHM,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+TECHM,Mar 2014,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+TECHM,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,85
+TECHM,Mar 2016,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,,75
+TECHM,Mar 2017,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,55
+TECHM,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Profit Growth,,75
+TECHM,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+TECHM,Mar 2020,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Profit Growth,55
+TECHM,Mar 2021,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth,55
+TECHM,Mar 2022,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+TECHM,Mar 2023,Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,70
+TECHM,Mar 2024,Low Debt; Positive Free Cash Flow,Low ROE; Weak Revenue Growth; Weak Profit Growth,60
+TITAN,Mar 2013,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+TITAN,Mar 2014,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow; Weak Profit Growth,65
+TITAN,Mar 2015,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow,,60
+TITAN,Mar 2016,Strong ROCE; Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+TITAN,Mar 2017,Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Weak Profit Growth,55
+TITAN,Mar 2018,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+TITAN,Mar 2019,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+TITAN,Mar 2020,High ROE; Strong ROCE,Negative Free Cash Flow,40
+TITAN,Mar 2021,Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,35
+TITAN,Mar 2022,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+TITAN,Mar 2023,High ROE; Strong ROCE; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,70
+TITAN,Mar 2024,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth,,60
+TORNTPHARM,Mar 2013,High ROE; Strong ROCE; Low Debt,Negative Free Cash Flow,55
+TORNTPHARM,Mar 2014,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+TORNTPHARM,Mar 2015,High ROE,Negative Free Cash Flow,25
+TORNTPHARM,Mar 2016,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,75
+TORNTPHARM,Mar 2017,High ROE; Strong ROCE; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,65
+TORNTPHARM,Mar 2018,,Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,30
+TORNTPHARM,Mar 2019,Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Weak Profit Growth,50
+TORNTPHARM,Mar 2020,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,70
+TORNTPHARM,Mar 2021,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,70
+TORNTPHARM,Mar 2022,Strong ROCE; Positive Free Cash Flow,Weak Profit Growth,40
+TORNTPHARM,Mar 2023,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,,60
+TORNTPHARM,Mar 2024,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,,60
+TRENT,Mar 2013,Low Debt,Low ROE; Low ROCE; Negative Free Cash Flow,45
+TRENT,Mar 2014,Low Debt,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,55
+TRENT,Mar 2015,Low Debt,Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,65
+TRENT,Mar 2016,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,70
+TRENT,Mar 2017,Low Debt; Positive Free Cash Flow; Strong Profit Growth,Low ROE; Low ROCE,65
+TRENT,Mar 2018,Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Weak Profit Growth,65
+TRENT,Mar 2019,Low Debt; Strong Revenue Growth,Low ROE; Negative Free Cash Flow,50
+TRENT,Mar 2020,Low Debt; Strong Revenue Growth,Low ROE; Negative Free Cash Flow,50
+TRENT,Mar 2021,Low Debt; Positive Free Cash Flow,Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,70
+TRENT,Mar 2022,Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Low ROCE; Weak Profit Growth,60
+TRENT,Mar 2023,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,45
+TRENT,Mar 2024,High ROE; Strong ROCE; Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,90
+TVSMOTOR,Mar 2013,High ROE; Strong ROCE; Positive Free Cash Flow,,45
+TVSMOTOR,Mar 2014,Strong ROCE; Positive Free Cash Flow,Weak Profit Growth,40
+TVSMOTOR,Mar 2015,High ROE; Strong ROCE; Strong Revenue Growth; Strong Profit Growth,Negative Free Cash Flow,70
+TVSMOTOR,Mar 2016,High ROE; Strong ROCE; Positive Free Cash Flow; Strong Profit Growth,,60
+TVSMOTOR,Mar 2017,High ROE; Strong ROCE; Strong Profit Growth,Negative Free Cash Flow,55
+TVSMOTOR,Mar 2018,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,65
+TVSMOTOR,Mar 2019,High ROE; Strong Revenue Growth,High Debt; Negative Free Cash Flow,50
+TVSMOTOR,Mar 2020,,High Debt; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,40
+TVSMOTOR,Mar 2021,Positive Free Cash Flow,High Debt; Weak Revenue Growth; Weak Profit Growth,45
+TVSMOTOR,Mar 2022,Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,50
+TVSMOTOR,Mar 2023,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,65
+TVSMOTOR,Mar 2024,High ROE; Strong Revenue Growth; Strong Profit Growth,High Debt; Negative Free Cash Flow,65
+ULTRACEMCO,Mar 2013,Strong ROCE; Low Debt,Negative Free Cash Flow,40
+ULTRACEMCO,Mar 2014,Low Debt; Positive Free Cash Flow,Weak Revenue Growth; Weak Profit Growth,50
+ULTRACEMCO,Mar 2015,Positive Free Cash Flow,Weak Profit Growth,25
+ULTRACEMCO,Mar 2016,Low Debt; Positive Free Cash Flow; Strong Profit Growth,,45
+ULTRACEMCO,Mar 2017,Low Debt; Positive Free Cash Flow,Weak Revenue Growth,40
+ULTRACEMCO,Mar 2018,Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Weak Profit Growth,50
+ULTRACEMCO,Mar 2019,Positive Free Cash Flow; Strong Revenue Growth,Low ROE,40
+ULTRACEMCO,Mar 2020,Positive Free Cash Flow; Strong Profit Growth,Weak Revenue Growth,40
+ULTRACEMCO,Mar 2021,Low Debt; Positive Free Cash Flow,Weak Profit Growth,40
+ULTRACEMCO,Mar 2022,Low Debt; Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,,60
+ULTRACEMCO,Mar 2023,Low Debt; Positive Free Cash Flow; Strong Revenue Growth,Low ROE; Weak Profit Growth,65
+ULTRACEMCO,Mar 2024,Low Debt; Positive Free Cash Flow; Strong Profit Growth,,45
+UNIONBANK,Mar 2013,,High Debt; Low ROCE; Negative Free Cash Flow,30
+UNIONBANK,Mar 2014,Positive Free Cash Flow; Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Weak Profit Growth,70
+UNIONBANK,Mar 2015,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Profit Growth,50
+UNIONBANK,Mar 2016,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,65
+UNIONBANK,Mar 2017,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+UNIONBANK,Mar 2018,Positive Free Cash Flow,High Debt; Low ROE; Low ROCE; Weak Revenue Growth; Weak Profit Growth,65
+UNIONBANK,Mar 2019,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow; Weak Revenue Growth; Weak Profit Growth,60
+UNIONBANK,Mar 2020,,High Debt; Low ROE; Low ROCE; Negative Free Cash Flow,40
+UNIONBANK,Mar 2021,Positive Free Cash Flow; Strong Revenue Growth,High Debt; Low ROE; Low ROCE; Weak Profit Growth,70
+UNIONBANK,Mar 2022,Positive Free Cash Flow; Strong Profit Growth,High Debt; Low ROE; Low ROCE; Weak Revenue Growth,70
+UNIONBANK,Mar 2023,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
+UNIONBANK,Mar 2024,Positive Free Cash Flow; Strong Revenue Growth; Strong Profit Growth,High Debt; Low ROCE,65
