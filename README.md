@@ -43,14 +43,35 @@ The N100 Financial Intelligence Platform is a Python-based financial analytics p
 
 ## Sprint 5 Features
 
-- NLP-based financial text parsing
-- Automatic Pros & Cons generation
-- Cash Flow Intelligence analysis
-- Capital allocation change detection
-- Company PDF tearsheets
-- Sector-wise PDF reports
-- Portfolio summary report
 
+## Modules
+
+- NLP Parser
+- Pros & Cons Generator
+- Cash Flow Intelligence
+- Capital Allocation Pattern Report
+- Company Tearsheet Generator
+- Sector Report Generator
+- Portfolio Summary PDF
+
+## Outputs
+
+output/
+- analysis_parsed.csv
+- parsing_failures.csv
+- pros_cons_generated.csv
+- cashflow_intelligence.xlsx
+- distress_alerts.csv
+- pattern_changes.csv
+
+reports/
+- tearsheets/
+- sector/
+- portfolio/
+
+## Status
+
+Sprint 5 completed successfully.
 ---
 
 ## Technology Stack
