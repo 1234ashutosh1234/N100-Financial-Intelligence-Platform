@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-from dashboard.utils.db import (
+from utils.db import (
     get_ratios,
 )
 

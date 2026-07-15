@@ -2,7 +2,7 @@ import streamlit as st
 import plotly.express as px
 import pandas as pd
 
-from dashboard.utils.db import (
+from utils.db import (
     get_companies,
     get_ratios,
     get_market_cap,

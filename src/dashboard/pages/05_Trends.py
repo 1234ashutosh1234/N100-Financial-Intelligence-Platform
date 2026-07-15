@@ -1,7 +1,7 @@
 import streamlit as st
 import plotly.express as px
 
-from dashboard.utils.db import get_ratios
+from utils.db import get_ratios
 
 st.set_page_config(
     page_title="Trend Analysis",

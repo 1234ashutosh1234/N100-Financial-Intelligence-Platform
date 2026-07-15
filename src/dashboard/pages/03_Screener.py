@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-from dashboard.utils.db import (
+from utils.db import (
     get_ratios,
     get_market_cap,
     get_rankings,

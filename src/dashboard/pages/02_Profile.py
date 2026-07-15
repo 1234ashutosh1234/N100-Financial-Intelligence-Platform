@@ -1,7 +1,7 @@
 import streamlit as st
 import plotly.express as px
 
-from dashboard.utils.db import (
+from utils.db import (
     get_company_profile,
     get_ratios,
     get_sectors,

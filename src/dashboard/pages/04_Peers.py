@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 
-from dashboard.utils.db import (
+from utils.db import (
     get_peer_percentiles,
 )
 
