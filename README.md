@@ -1,120 +1,188 @@
-# N100 Financial Intelligence Platform
+# 📈 N100 Financial Intelligence Platform
 
-## Overview
-
-The N100 Financial Intelligence Platform is a Python-based financial analytics platform that analyzes Nifty 100 companies using financial statements, market data, and custom analytics.
+A comprehensive financial intelligence platform for NIFTY 100 companies built using **FastAPI**, **SQLite**, **Pandas**, **Streamlit**, and **Plotly**.
 
 ---
 
-## Features
+## 🚀 Features
 
-### Sprint 1
-- Data Loading (SQLite)
-- Database Validation
-- Financial Statements
-- Company Information
-- Dashboard Setup
+### ✅ Company Information
+- Company Details
+- NSE & BSE Links
+- Company Profiles
+- Financial Overview
 
-### Sprint 2
-- Financial Ratio Engine
-- Growth Analytics
-- Health Score
-- Company Ranking
-- Recommendation Engine
+### 📊 Financial Analysis
+- Historical Financial Ratios
+- ROE Analysis
+- ROCE Analysis
+- Profit Margin
+- Growth Score
+- Financial Health Score
 
-### Sprint 3
-- Stock Screener
-- Composite Quality Score
-- Peer Percentile Ranking
-- Peer Comparison Report
-- Dashboard Integration
-- Excel Report Export
+### 💰 Valuation
+- Book Value
+- Face Value
+- ROE
+- ROCE
+- Valuation Metrics
 
-## Sprint 4 Features
+### 🔍 Stock Screener
+- Filter by ROE
+- Filter by ROCE
+- Filter by Growth Score
+- Dynamic Query Parameters
 
-• Interactive Dashboard
-• Advanced Stock Screener
-• Peer Comparison
-• Trend Analytics
-• Sector Analytics
-• Capital Allocation Dashboard
-• Valuation Engine
-• CSV & Excel Export
+Example:
 
-## Sprint 5 Features
+```
+/screener?min_roe=20&min_roce=25&min_growth=2
+```
 
+### 🏢 Sector Analysis
+- Companies by Sector
+- Average Index Weight
+- Sector Distribution
 
-## Modules
+### 🤖 Recommendation Engine
+Automatic BUY / HOLD / SELL recommendation based on:
 
-- NLP Parser
-- Pros & Cons Generator
-- Cash Flow Intelligence
-- Capital Allocation Pattern Report
-- Company Tearsheet Generator
-- Sector Report Generator
-- Portfolio Summary PDF
+- ROE
+- ROCE
+- Profit Margin
+- Growth Score
 
-## Outputs
+### ⚠ Risk Analysis
+Evaluates company risk using:
 
-output/
-- analysis_parsed.csv
-- parsing_failures.csv
-- pros_cons_generated.csv
-- cashflow_intelligence.xlsx
-- distress_alerts.csv
-- pattern_changes.csv
+- Debt to Equity
+- Interest Coverage
+- ROE
+- Profit Margin
 
-reports/
-- tearsheets/
-- sector/
-- portfolio/
+Risk Levels:
+- Low Risk
+- Medium Risk
+- High Risk
 
-## Status
+### 👥 Peer Comparison
+Compare a company with its sector peers using:
 
-Sprint 5 completed successfully.
+- ROE
+- ROCE
+- Sector Ranking
+
 ---
 
-## Technology Stack
+# 🛠 Tech Stack
 
-- Python
-- Pandas
+- Python 3.14
+- FastAPI
 - SQLite
+- Pandas
 - Streamlit
-- OpenPyXL
-- Matplotlib
-- NumPy
-- YAML
+- Plotly
+- Uvicorn
 
 ---
 
-## Project Structure
+# 📂 Project Structure
 
 ```
-src/
-analytics/
-dashboard/
-etl/
-api/
-
-data/
-config/
-output/
-reports/
-tests/
+N100-Financial-Intelligence-Platform
+│
+├── data/
+│   └── nifty100.db
+│
+├── src/
+│   ├── analytics/
+│   └── api/
+│       ├── routers/
+│       │   ├── health.py
+│       │   ├── companies.py
+│       │   ├── financials.py
+│       │   ├── valuation.py
+│       │   ├── screener.py
+│       │   ├── sectors.py
+│       │   ├── recommendation.py
+│       │   ├── risk.py
+│       │   └── peer.py
+│       │
+│       ├── database.py
+│       └── main.py
+│
+├── dashboard/
+└── README.md
 ```
 
 ---
 
-## Outputs
+# 🌐 Available APIs
 
-- screener_output.xlsx
-- peer_comparison.xlsx
-- financial_ratios
-- company_rankings
-- peer_percentiles
+| Endpoint | Description |
+|----------|-------------|
+| `/health` | Health Check |
+| `/companies` | List Companies |
+| `/companies/{id}` | Company Details |
+| `/financials/{id}` | Financial Ratios |
+| `/valuation/{id}` | Valuation Metrics |
+| `/portfolio/stats` | Portfolio Statistics |
+| `/screener` | Stock Screener |
+| `/sectors` | Sector Analysis |
+| `/recommendation/{id}` | BUY/HOLD/SELL Recommendation |
+| `/risk/{id}` | Risk Analysis |
+| `/peer/{id}` | Peer Comparison |
 
 ---
 
-## Author
+# ▶ Running the API
 
-Ashutosh Raj
+Activate the virtual environment:
+
+```
+venv\Scripts\activate
+```
+
+Run FastAPI:
+
+```
+python -m uvicorn src.api.main:app --reload
+```
+
+Open Swagger UI:
+
+```
+http://127.0.0.1:8000/docs
+```
+
+---
+
+# 📅 Sprint Status
+
+## ✅ Sprint 6 Completed
+
+Completed APIs:
+
+- Health API
+- Companies API
+- Financials API
+- Portfolio API
+- Valuation API
+- Screener API
+- Sector Analysis API
+- Recommendation API
+- Risk Analysis API
+- Peer Comparison API
+
+---
+
+## 🚀 Next Sprint
+
+Sprint 7
+
+- Streamlit Dashboard
+- Interactive Charts
+- Portfolio Dashboard
+- Company Analysis UI
+- AI Recommendation Dashboard
+- Peer Comparison Charts

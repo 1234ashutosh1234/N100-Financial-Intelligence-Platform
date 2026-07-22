@@ -1,0 +1,93 @@
+company_id,cluster_id,cluster_name
+ABB,1,Growth
+ADANIENSOL,1,Growth
+ADANIENT,1,Growth
+ADANIGREEN,0,High Quality
+ADANIPORTS,0,High Quality
+ADANIPOWER,1,Growth
+AMBUJACEM,1,Growth
+APOLLOHOSP,1,Growth
+ASIANPAINT,1,Growth
+AXISBANK,4,Balanced
+BAJAJ-AUTO,1,Growth
+BAJAJFINSV,4,Balanced
+BAJAJHLDNG,0,High Quality
+BAJFINANCE,4,Balanced
+BANKBARODA,4,Balanced
+BEL,3,Turnaround
+BHARTIARTL,0,High Quality
+BHEL,1,Growth
+BOSCHLTD,1,Growth
+BPCL,1,Growth
+BRITANNIA,1,Growth
+CANBK,4,Balanced
+CHOLAFIN,4,Balanced
+CIPLA,0,High Quality
+COALINDIA,0,High Quality
+DABUR,1,Growth
+DIVISLAB,1,Growth
+DLF,1,Growth
+DMART,1,Growth
+DRREDDY,1,Growth
+EICHERMOT,1,Growth
+GAIL,1,Growth
+GODREJCP,1,Growth
+GRASIM,1,Growth
+HAL,3,Turnaround
+HAVELLS,1,Growth
+HCLTECH,1,Growth
+HDFCBANK,0,High Quality
+HDFCLIFE,0,High Quality
+HEROMOTOCO,0,High Quality
+HINDALCO,0,High Quality
+HINDUNILVR,0,High Quality
+ICICIBANK,0,High Quality
+ICICIGI,0,High Quality
+ICICIPRULI,0,High Quality
+INDIGO,0,High Quality
+INDUSINDBK,4,Balanced
+INFY,1,Growth
+IOC,1,Growth
+IRCTC,1,Growth
+IRFC,0,High Quality
+ITC,1,Growth
+JINDALSTEL,1,Growth
+JIOFIN,2,Value
+JSWENERGY,1,Growth
+JSWSTEEL,1,Growth
+KOTAKBANK,0,High Quality
+LICI,1,Growth
+LODHA,1,Growth
+LT,1,Growth
+LTIM,1,Growth
+M&M,1,Growth
+MARUTI,1,Growth
+MOTHERSON,1,Growth
+NAUKRI,1,Growth
+NESTLEIND,1,Growth
+NHPC,1,Growth
+NTPC,1,Growth
+ONGC,1,Growth
+PFC,4,Balanced
+PIDILITIND,1,Growth
+PNB,4,Balanced
+POWERGRID,0,High Quality
+RECLTD,4,Balanced
+RELIANCE,1,Growth
+SBILIFE,1,Growth
+SHREECEM,1,Growth
+SHRIRAMFIN,4,Balanced
+SUNPHARMA,1,Growth
+TATACONSUM,1,Growth
+TATAMOTORS,1,Growth
+TATAPOWER,1,Growth
+TATASTEEL,1,Growth
+TCS,1,Growth
+TECHM,1,Growth
+TITAN,1,Growth
+TORNTPHARM,1,Growth
+TRENT,1,Growth
+TVSMOTOR,1,Growth
+ULTRACEMCO,1,Growth
+UNIONBANK,4,Balanced
+SIEMENS,1,Growth
