@@ -1,155 +1,221 @@
 # 📈 N100 Financial Intelligence Platform
 
-A comprehensive financial intelligence platform for NIFTY 100 companies built using **FastAPI**, **SQLite**, **Pandas**, **Streamlit**, and **Plotly**.
+> A complete Financial Intelligence Platform for Nifty 100 companies built using Python, FastAPI, SQLite, Pandas, Streamlit, and Financial Analytics.
+
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green)
+![SQLite](https://img.shields.io/badge/SQLite-Database-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ---
 
-## 🚀 Features
+# 📌 Project Overview
 
-### ✅ Company Information
-- Company Details
-- NSE & BSE Links
-- Company Profiles
-- Financial Overview
+The **N100 Financial Intelligence Platform** is an end-to-end financial analytics system developed across **6 Sprints**.
 
-### 📊 Financial Analysis
-- Historical Financial Ratios
-- ROE Analysis
-- ROCE Analysis
-- Profit Margin
-- Growth Score
-- Financial Health Score
-
-### 💰 Valuation
-- Book Value
-- Face Value
-- ROE
-- ROCE
-- Valuation Metrics
-
-### 🔍 Stock Screener
-- Filter by ROE
-- Filter by ROCE
-- Filter by Growth Score
-- Dynamic Query Parameters
-
-Example:
-
-```
-/screener?min_roe=20&min_roce=25&min_growth=2
-```
-
-### 🏢 Sector Analysis
-- Companies by Sector
-- Average Index Weight
-- Sector Distribution
-
-### 🤖 Recommendation Engine
-Automatic BUY / HOLD / SELL recommendation based on:
-
-- ROE
-- ROCE
-- Profit Margin
-- Growth Score
-
-### ⚠ Risk Analysis
-Evaluates company risk using:
-
-- Debt to Equity
-- Interest Coverage
-- ROE
-- Profit Margin
-
-Risk Levels:
-- Low Risk
-- Medium Risk
-- High Risk
-
-### 👥 Peer Comparison
-Compare a company with its sector peers using:
-
-- ROE
-- ROCE
-- Sector Ranking
+It processes financial data of Nifty 100 companies, generates analytics, dashboards, reports, portfolio insights, valuation metrics, risk analysis, peer comparison, and exposes REST APIs using FastAPI.
 
 ---
 
-# 🛠 Tech Stack
+# 🎯 Project Objectives
+
+- Process Nifty 100 company financial statements
+- Build automated ETL pipelines
+- Generate financial ratios
+- Perform valuation analysis
+- Generate company tear sheets
+- Create portfolio analytics
+- Develop Streamlit dashboard
+- Build FastAPI backend
+- Produce professional reports
+
+---
+
+# 🛠 Technology Stack
 
 - Python 3.14
 - FastAPI
+- Streamlit
 - SQLite
 - Pandas
-- Streamlit
+- NumPy
 - Plotly
+- Matplotlib
+- Pytest
 - Uvicorn
+- Git & GitHub
 
 ---
 
 # 📂 Project Structure
 
 ```
-N100-Financial-Intelligence-Platform
+N100-Financial-Intelligence-Platform/
+
 │
+├── config/
 ├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── db/
 │   └── nifty100.db
+│
+├── docs/
+│   ├── analyst_guide.md
+│   ├── analyst_guide.pdf
+│   ├── acceptance_checklist.md
+│   └── acceptance_checklist.pdf
+│
+├── output/
+│   ├── analysis_parsed.csv
+│   ├── valuation_summary.xlsx
+│   ├── cluster_labels.csv
+│   ├── cashflow_intelligence.xlsx
+│   ├── pros_cons_generated.csv
+│   └── ...
+│
+├── reports/
+│   ├── company_report.pdf
+│   ├── pytest_report.html
+│   ├── portfolio/
+│   ├── radar_charts/
+│   ├── sector/
+│   └── tearsheets/
 │
 ├── src/
 │   ├── analytics/
-│   └── api/
-│       ├── routers/
-│       │   ├── health.py
-│       │   ├── companies.py
-│       │   ├── financials.py
-│       │   ├── valuation.py
-│       │   ├── screener.py
-│       │   ├── sectors.py
-│       │   ├── recommendation.py
-│       │   ├── risk.py
-│       │   └── peer.py
-│       │
-│       ├── database.py
-│       └── main.py
+│   ├── api/
+│   ├── dashboard/
+│   ├── etl/
+│   └── utils/
 │
-├── dashboard/
+├── tests/
 └── README.md
 ```
 
 ---
 
-# 🌐 Available APIs
+# 🚀 Sprint Progress
 
-| Endpoint | Description |
-|----------|-------------|
-| `/health` | Health Check |
-| `/companies` | List Companies |
-| `/companies/{id}` | Company Details |
-| `/financials/{id}` | Financial Ratios |
-| `/valuation/{id}` | Valuation Metrics |
-| `/portfolio/stats` | Portfolio Statistics |
-| `/screener` | Stock Screener |
-| `/sectors` | Sector Analysis |
-| `/recommendation/{id}` | BUY/HOLD/SELL Recommendation |
-| `/risk/{id}` | Risk Analysis |
-| `/peer/{id}` | Peer Comparison |
+# ✅ Sprint 1
+
+### Data Collection
+
+- Imported Excel datasets
+- Data validation
+- Data cleaning
+- Company master creation
+- SQLite database initialization
+
+### Deliverables
+
+- Companies dataset
+- Database setup
+- ETL framework
 
 ---
 
-# ▶ Running the API
+# ✅ Sprint 2
 
-Activate the virtual environment:
+### Financial Analytics
 
-```
-venv\Scripts\activate
-```
+Generated
 
-Run FastAPI:
+- Profit & Loss Analysis
+- Balance Sheet Analysis
+- Cash Flow Analysis
+- Financial Ratios
 
-```
-python -m uvicorn src.api.main:app --reload
-```
+Deliverables
 
-Open Swagger UI:
+- Financial ratio tables
+- Analysis reports
+- Processed datasets
+
+---
+
+# ✅ Sprint 3
+
+### Advanced Analytics
+
+Implemented
+
+- Valuation Analysis
+- Peer Comparison
+- Capital Allocation
+- CAGR Analysis
+- Portfolio Analytics
+
+Generated
+
+- valuation_summary.xlsx
+- peer_comparison.xlsx
+- portfolio analytics
+
+---
+
+# ✅ Sprint 4
+
+### Dashboard Development
+
+Developed
+
+- Streamlit Dashboard
+- Interactive Charts
+- Company Search
+- Portfolio View
+- Sector Analysis
+- Valuation Dashboard
+
+Dashboard includes
+
+- 8 Interactive Screens
+
+---
+
+# ✅ Sprint 5
+
+### Report Generation
+
+Generated
+
+- 92 Company Tear Sheets
+- 11 Sector Reports
+- Portfolio Report
+- Radar Charts
+- Company Report
+- Cashflow Intelligence
+- Analysis Parsed
+- Pros & Cons Generator
+
+Deliverables
+
+- reports/
+- output/
+
+---
+
+# ✅ Sprint 6
+
+### FastAPI Backend
+
+Implemented APIs
+
+- Health API
+- Companies API
+- Company Details API
+- Financials API
+- Portfolio Statistics API
+- Valuation API
+- Screener API
+- Sector API
+- Recommendation API
+- Risk API
+- Peer Comparison API
+
+Swagger Documentation
 
 ```
 http://127.0.0.1:8000/docs
@@ -157,32 +223,220 @@ http://127.0.0.1:8000/docs
 
 ---
 
-# 📅 Sprint Status
+# 📊 Analytics Modules
 
-## ✅ Sprint 6 Completed
-
-Completed APIs:
-
-- Health API
-- Companies API
-- Financials API
-- Portfolio API
-- Valuation API
-- Screener API
-- Sector Analysis API
-- Recommendation API
-- Risk Analysis API
-- Peer Comparison API
+- Financial Ratio Analysis
+- ROE
+- ROCE
+- CAGR
+- DCF Valuation
+- Risk Assessment
+- Sector Analysis
+- Portfolio Allocation
+- Peer Comparison
+- Company Recommendation
 
 ---
 
-## 🚀 Next Sprint
+# 📈 Reports Generated
 
-Sprint 7
+## Company Reports
 
-- Streamlit Dashboard
-- Interactive Charts
-- Portfolio Dashboard
-- Company Analysis UI
-- AI Recommendation Dashboard
-- Peer Comparison Charts
+- Company Report PDF
+- Company Tear Sheets
+- Radar Charts
+
+## Sector Reports
+
+- 11 Sector Reports
+
+## Portfolio Reports
+
+- Portfolio Summary
+
+## Output Files
+
+- valuation_summary.xlsx
+- analysis_parsed.csv
+- pros_cons_generated.csv
+- cashflow_intelligence.xlsx
+- cluster_labels.csv
+
+---
+
+# 🌐 FastAPI Endpoints
+
+| Endpoint | Description |
+|----------|-------------|
+| `/health` | Health Check |
+| `/companies` | All Companies |
+| `/companies/{id}` | Company Details |
+| `/financials/{id}` | Financial Statements |
+| `/portfolio/stats` | Portfolio Summary |
+| `/valuation/{id}` | Valuation Metrics |
+| `/screener` | Financial Screener |
+| `/sectors` | Sector Analysis |
+| `/recommendation/{id}` | Investment Recommendation |
+| `/risk/{id}` | Risk Analysis |
+| `/peer/{id}` | Peer Comparison |
+
+---
+
+# 🧪 Testing
+
+Pytest Results
+
+```
+3 Tests Passed
+0 Failed
+```
+
+Generated Report
+
+```
+reports/pytest_report.html
+```
+
+---
+
+# ▶️ Running the Project
+
+## Clone Repository
+
+```bash
+git clone https://github.com/1234ashutosh1234/N100-Financial-Intelligence-Platform.git
+```
+
+---
+
+## Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Start FastAPI
+
+```bash
+python -m uvicorn src.api.main:app --reload
+```
+
+Open
+
+```
+http://127.0.0.1:8000/docs
+```
+
+---
+
+## Start Streamlit
+
+```bash
+streamlit run src/dashboard/app.py
+```
+
+---
+
+# 📦 Deliverables
+
+## Sprint Deliverables
+
+- ETL Pipeline
+- SQLite Database
+- Financial Ratios
+- Portfolio Analytics
+- Valuation Models
+- Dashboard
+- Company Tear Sheets
+- Sector Reports
+- Radar Charts
+- Portfolio Report
+- FastAPI Backend
+- Swagger Documentation
+- Analyst Guide
+- Acceptance Checklist
+- Pytest Report
+
+---
+
+# Git Workflow
+
+```bash
+git status
+
+git add .
+
+git commit -m "Sprint 6 Final Submission"
+
+git push origin main
+```
+
+---
+
+# Project Status
+
+| Sprint | Status |
+|---------|--------|
+| Sprint 1 | ✅ Completed |
+| Sprint 2 | ✅ Completed |
+| Sprint 3 | ✅ Completed |
+| Sprint 4 | ✅ Completed |
+| Sprint 5 | ✅ Completed |
+| Sprint 6 | ✅ Completed |
+
+---
+
+# Final Project Summary
+
+✔ Data Engineering
+
+✔ Financial Analytics
+
+✔ Portfolio Intelligence
+
+✔ Streamlit Dashboard
+
+✔ FastAPI Backend
+
+✔ SQLite Database
+
+✔ Report Generation
+
+✔ Testing
+
+✔ Documentation
+
+✔ GitHub Deployment
+
+---
+
+# 👨‍💻 Author
+
+**Ashutosh Raj**
+
+B.Tech Computer Science & Engineering
+
+Bihar Engineering University, Patna
+
+GitHub:
+https://github.com/1234ashutosh1234
+
+---
+
+# ⭐ Project Completed Successfully
+
+**N100 Financial Intelligence Platform**
+
+Sprint 1 → Sprint 6
+
+✅ All Deliverables Completed
+
+✅ Tests Passed
+
+✅ APIs Working
+
+✅ Documentation Completed
+
+✅ Successfully Uploaded to GitHub
